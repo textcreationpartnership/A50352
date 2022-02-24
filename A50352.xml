@@ -1,0 +1,2313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVhite-Powder Plot discovered, or, A prophetical poeme wherein is most elegantly revealed the secret combination of Hell and Rome, against the interest of true religion, and more particularly against the late King of blessed memory, and kingdom of England. Written before the late unhappy wars broke forth, and too sadly verified in them, which yet the author scarce lived to see. Also a prophetical rapture concerning the future extent of this British Empire into Italy. By George May, gent.</title>
+            <author>May, George, gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50352</idno>
+            <idno type="STC">Wing M1388A</idno>
+            <idno type="STC">ESTC R217747</idno>
+            <idno type="EEBO-CITATION">99829396</idno>
+            <idno type="PROQUEST">99829396</idno>
+            <idno type="VID">33835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33835)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1918:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVhite-Powder Plot discovered, or, A prophetical poeme wherein is most elegantly revealed the secret combination of Hell and Rome, against the interest of true religion, and more particularly against the late King of blessed memory, and kingdom of England. Written before the late unhappy wars broke forth, and too sadly verified in them, which yet the author scarce lived to see. Also a prophetical rapture concerning the future extent of this British Empire into Italy. By George May, gent.</title>
+                  <author>May, George, gent.</author>
+               </titleStmt>
+               <extent>[10], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Francis Grove, stationer on Snow-hill, and by Francis Mawborn, stationer in York,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33835:1"/>
+            <pb facs="tcp:33835:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33835:2"/>
+            <pb facs="tcp:33835:2"/>
+            <p>THE VVhite-Powder Plot DISCOVERED, OR, A PROPHETICAL POEME, Wherein is moſt elegantly revealed the ſecret Combination of <hi>Hell</hi> and <hi>Rome,</hi> againſt the intereſt of true Religion, and more particularly againſt the late King of Bleſſed Memory, and King<g ref="char:EOLhyphen"/>dom of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Written before the late unhappy Wars broke forth, and too ſadly verified in them, which yet the Author ſcarce lived to ſee.</hi>
+            </p>
+            <p>Alſo a Prophetical Rapture concerning the future extent of this <hi>Britiſh Empire</hi> into <hi>Italy.</hi>
+            </p>
+            <p>By <hi>GEORGE MAY,</hi> Gent.</p>
+            <p>LONDON<g ref="char:punc">▪</g> Printed, and are to be ſold by <hi>Francis Grove</hi> Sta<g ref="char:EOLhyphen"/>tioner on Snow-hill and by <hi>Francis Mawborn</hi> Stationer in <hi>York,</hi> 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33835:3"/>
+            <pb facs="tcp:33835:3"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T would be too much of injury to thee, to detain thee any time with a te<g ref="char:EOLhyphen"/>dious <hi>Epiſtle,</hi> and to avoid that, I only in ſhort give thee this ac<g ref="char:EOLhyphen"/>count; that the Book thou art now a<g ref="char:EOLhyphen"/>bout to engage thy pains in, (if thou doſt not read it too ſlightly over) will not fail thee, as ſome do, that are lar<g ref="char:EOLhyphen"/>ger in the firſt page than in all the reſt that follow, but fully anſwer all thy expectations, that take their riſe from thy view of the <hi>Frontiſpiece.</hi> Thus I
+<pb facs="tcp:33835:4"/>
+leave it to thy judgment, which I hope will neither be ſevere nor raſh; and I doubt not but after a ſerious perlection, thou wilt conclude it a friendly part done of him that brought the <hi>Poeme</hi> to the Preſs, which above this twenty years hath been kept cloſe priſoner in his dead Maſter's Cloſet, and ſeems to be an<g ref="char:EOLhyphen"/>tienter in its date than the firſt <hi>Sco<g ref="char:EOLhyphen"/>tiſh Expedition;</hi> and perhaps after thou haſt weighed all its particulars, thou wilt be as great an Admirer of it, as he that commends it to thee.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:33835:4"/>
+            <head>Upon that excellent Poeme of Mr. <hi>George May,</hi> called, <hi>The White-powder Plot diſcovered.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">W</seg>Ere't not a ſin both against Heaven and Thee,</l>
+            <l>To wiſh Thee back from thy <hi>Eternity;</hi>
+            </l>
+            <l>How earnest ſhould I be, that Earth again</l>
+            <l>Were enrich'd with thy preſence? But in vain</l>
+            <l>Are all ſuch thoughts, it is enough that we</l>
+            <l>Have any thing that did belong to thee.</l>
+            <l>Thy <hi>Book</hi> theſe many years ſince thou didst die,</l>
+            <l>Has <hi>Cloyſter'd</hi> up it ſelf from every eye,</l>
+            <l>Like a <hi>Cloſe Mourner;</hi> Nay, a man may ſay,</l>
+            <l>It <hi>Buried</hi> was, like Thee, from ſight or day,</l>
+            <l>And ſo had laid, but that a <hi>Happy Fate</hi>
+            </l>
+            <l>Attends the Preſſe, and thoſe to it relate.</l>
+            <l>Thus, and no other way, it comes to be</l>
+            <l>Extant with us, and riſen before thee.</l>
+            <closer>
+               <signed>A. B.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>Upon that most Ingenious Poeme of Mr. <hi>George May,</hi> called, <hi>The White-powder Plot.</hi>
+            </head>
+            <l>
+               <hi>I</hi> Now believe a <hi>Tranſmigration</hi>
+            </l>
+            <l>
+               <hi>Of Souls</hi> is no ſuch fond opinion:</l>
+            <l>Since did not thy foreſeeing one inherit</l>
+            <l>Some old <hi>Sybillas</hi> strange Prophetick Spirit,</l>
+            <l>It were not poſſible thou ſhould'ſt ſo well</l>
+            <l>The King and Kingdoms Fortune thus foretell;</l>
+            <l>Or ſing in lofty numbers <hi>Englands</hi> fate,</l>
+            <l>Which thou ſo long before didst antidate.</l>
+            <l>Such is thy <hi>Method,</hi> ſuch thy <hi>Hiſtory,</hi>
+            </l>
+            <l>So clear thy <hi>Vein,</hi> ſo ſmooth thy <hi>Poetry,</hi>
+            </l>
+            <pb facs="tcp:33835:5"/>
+            <l>
+               <hi>So ſtrangely taking,</hi> that it would require</l>
+            <l>The ripeſt Judgment which moſt do admire.</l>
+            <l>
+               <hi>Prophetick raptur'd Soul!</hi> was I poſſeſt</l>
+            <l>With the leaſt ſpark which did inſpire thy breast,</l>
+            <l>I'd write thy Praiſes in a ſtrain as high,</l>
+            <l>As is thy much admired <hi>Prophecy;</hi>
+            </l>
+            <l>Nay I'd turn <hi>Prophet</hi> too, and boldly ſay,</l>
+            <l>None ever was, or will be, match with <hi>May.</hi>
+            </l>
+            <closer>
+               <signed>A. C.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>On the poſthumous Prophetical Poeme of Mr. <hi>George May,</hi> called, <hi>The White-powder Plot diſcovered.</hi>
+            </head>
+            <l>HAd I faculty for Verſe,</l>
+            <l>I would employ't to grace thy Hearſe</l>
+            <l>With <hi>Elegies,</hi>' cauſe Thou didst die</l>
+            <l>
+               <hi>So ſoon,</hi> cut off by <hi>Deſtiny:</hi>
+            </l>
+            <l>And that thy <hi>Book</hi> came forth <hi>ſo late,</hi>
+            </l>
+            <l>Which might have ſav'd both King and State.</l>
+            <l>But, O alas! Thy hour was come,</l>
+            <l>Through our irrevocable doom,</l>
+            <l>Not thine own fate: Thy <hi>Book</hi> conceal'd,</l>
+            <l>That Wrath on Sin may be reveal'd.</l>
+            <l>What Dreſs, O <hi>May,</hi> can ſuit thy worth?</l>
+            <l>'Tis thine own <hi>Flowers</hi> ſets thee forth.</l>
+            <l>I would be glad to live and ſee</l>
+            <l>What's yet behind, <hi>foretold</hi> by Thee.</l>
+            <l>For thy ſake, I could wiſh St. <hi>George's</hi> day</l>
+            <l>Henceforth tranſlated to the Month of <hi>May.</hi>
+            </l>
+            <closer>
+               <signed>A. D.</signed>
+            </closer>
+         </div>
+         <div type="author_to_his_book">
+            <pb facs="tcp:33835:5"/>
+            <head>To his BOOK.</head>
+            <lg>
+               <l>MY little Book, if any chance to bring</l>
+               <l>Thee to the hands of <hi>Charls,</hi> my Soveraign King,</l>
+               <l>Preſent my bounden Love and Loyalty</l>
+               <l>And faithful Service to his Majeſty.</l>
+               <l>Tell him that Men run mad, beware to truſt,</l>
+               <l>For not a Man, amongſt a thouſand's juſt.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Dev'l</hi>'s unloos'd from his inchained Den,</l>
+               <l>And reigns, and rages, in the hearts of Men;</l>
+               <l>Sin ſtrives with Virtue, gets the upper hand,</l>
+               <l>And makes Gods Vengeance ſcourge this Sinful Land.</l>
+               <l>The <hi>Devil</hi>'s Motto is of great and ſmall</l>
+               <l>Imbrac'd: (<hi>Each for himſelf, and God for all</hi>)</l>
+            </lg>
+            <lg>
+               <l>The time has been, when men would ſpend their Blood,</l>
+               <l>And ſacrifize themſelves, for <hi>Soveraigns</hi> good.</l>
+               <l>The time is now, (O happy time to reign)</l>
+               <l>When King love's People, People him again.</l>
+               <l>They are his Members, he their Royal Head,</l>
+               <l>How could they thrive, if he were ſick, or dead?</l>
+               <l>Oh, then endeavour both with foot and hand,</l>
+               <l>To underprop this Head of <hi>Britiſh Land.</hi>
+               </l>
+               <l>But now, alas! both hands and feet are lame,</l>
+               <l>Some both in <hi>Court</hi> and <hi>Country</hi> are too blame</l>
+               <l>In many things, which would amended be,</l>
+               <l>If that his eyes were ope, that he might ſee:</l>
+               <l>But they diſable, Eye, and Hand, and Ear,</l>
+               <l>That he ſhould neither See, nor Feel, nor Hear;</l>
+               <l>They know his Juſtice, and they fear his Rod,</l>
+               <l>As guilty Conſcience fears the Wrath of God.</l>
+            </lg>
+            <lg>
+               <l>What <hi>Joſeph</hi> now, doth neer the King remain,</l>
+               <l>That foreſees Famine, and provides for Grain,</l>
+               <l>For to relieve their King and Countries want,</l>
+               <l>When Victuals fail, or Money waxeth ſcant?</l>
+               <l>I may with <hi>David,</hi> reſtifie ther's none</l>
+               <l>In all the <hi>Court,</hi> or <hi>Country,</hi> ſcarcely one</l>
+               <l>That ſeeks for to advance their <hi>Prince</hi>'s ſtore,</l>
+               <l>Unleſs they pluck it from the backs o'th' Poor.</l>
+               <l>Poor Souls, they want, yet do not murmur much,</l>
+               <l>Becauſe their <hi>true Religion</hi> makes them ſuch.</l>
+               <pb facs="tcp:33835:6"/>
+               <l>But if in <hi>Popiſh</hi> times ſuch things had been,</l>
+               <l>You ſhould have many change of colours ſeen;</l>
+               <l>But <hi>God</hi> be bleſt, <hi>Religion</hi> doth advance,</l>
+               <l>Our dayes, above thoſe times of Ignorance.</l>
+               <l>We do adore our <hi>Kings</hi> as <hi>Gods,</hi> for we</l>
+               <l>Know, God commands, on Earth it ſo ſhould be;</l>
+               <l>And pray that God may ſo our Souls reward,</l>
+               <l>As <hi>Kings</hi> may ſafely walk, without a Guard.</l>
+               <l>But I am ſure his Royal ears would itch,</l>
+               <l>If he ſhould hear how the o'r-ruling Rich</l>
+               <l>Oppreſs the Poor, and like ſelf-loving Elves,</l>
+               <l>Care not who weep, ſo they may laugh themſelves,</l>
+               <l>When as his <hi>Majeſty</hi> well underſtands,</l>
+               <l>That a ſmall number of ſome Rich Mens hands,</l>
+               <l>Cannot ſo much unto his profit prove,</l>
+               <l>As the enjoyment of his Commons Love.</l>
+            </lg>
+            <lg>
+               <l>Yet eaſy 't were, to ſpeak't I dare be bold,</l>
+               <l>To furniſh him with weighty ſums of Gold</l>
+               <l>By lawful means, and fill his Cheſts with ſtore,</l>
+               <l>And yet not take one Farthing from the Poor,</l>
+               <l>Nor wrong one Subject, If his Grace did know it,</l>
+               <l>And I perſwade my ſelf that I could ſhow it.</l>
+            </lg>
+            <lg>
+               <l>Yet tell that true <hi>Catholick Faith</hi>'s <hi>Protector</hi>
+               </l>
+               <l>Thy Maſter is no common baſe <hi>Projector,</hi>
+               </l>
+               <l>Nor aims at his peculiar private gain,</l>
+               <l>For he eſteems all fading pelf, but vain;</l>
+               <l>Deſires no ſuperfluous Wealth, or Meat,</l>
+               <l>But cloaths for warmneſs, wholeſome cates to eat;</l>
+               <l>And only wiſhes he may ſpend his Blood,</l>
+               <l>To do his Highneſs, and his Country good.</l>
+               <l>But <hi>God,</hi> who knows things ſecret and conceal'd,</l>
+               <l>Limits all times, when ought ſhould be reveal'd.</l>
+               <l>God bleſſe his Grace, and ſend him long to reign</l>
+               <l>To <hi>God</hi>'s good glory, and our <hi>Britains</hi> gain.</l>
+            </lg>
+            <epigraph>
+               <q>Non nobis ſolum nati ſumus.</q>
+            </epigraph>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33835:6"/>
+            <head>The Author's humble Petition to his right Royal, and thrice Noble Patron.</head>
+            <lg>
+               <l>
+                  <hi>GReat Sir,</hi> when you ſhall grace this little Book,</l>
+               <l>By lending of your Royal eyes to look</l>
+               <l>Thereon, and therein find ought that ſhall pleaſe</l>
+               <l>Your <hi>Highneſs</hi> appetite, my heart's at eaſe.</l>
+            </lg>
+            <lg>
+               <l>But whatſoere you cannot well digeſt,</l>
+               <l>Then cancel it; For here I do proteſt,</l>
+               <l>My heart is guiltleſs, and my thoughts are free</l>
+               <l>From the leaſt tincture of Diſloyalty,</l>
+               <l>Or injury unto the meaneſt Swain,</l>
+               <l>Which in theſe Territories doth remain;</l>
+               <l>And live in hope to ſee, that time, and place,</l>
+               <l>Wherein I may do ſervice to <hi>Your Grace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And therefore (<hi>thrice renowned Noble,</hi>) ſince,</l>
+               <l>My aim ſhoots at the profit of my <hi>Prince,</hi>
+               </l>
+               <l>I humbly pray, to let miſpriſions paſs</l>
+               <l>Your Gentle Cenſure: For I know, alas,</l>
+               <l>My <hi>Oaten-pipe,</hi> and ruſtick home-bred ſtrain,</l>
+               <l>Lacks pleaſant Reliſh, for your <hi>Courtly brain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Which done, if you vouchſafe your Royal hand</l>
+               <l>Unto the ſame: I'm ſure it will command</l>
+               <l>The Churliſh <hi>Printer,</hi> without further ſtrife,</l>
+               <l>To give it freedom; Then whilſt we have life,</l>
+               <l>My Book, and I, will both unto our power</l>
+               <l>Indeavour to approve, that we are</l>
+            </lg>
+            <closer>
+               <signed>Your Graces obſequious Servants: And will pray For your eternal Happineſs <hi>George May.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="invocation">
+            <pb facs="tcp:33835:7"/>
+            <head>The Authors Prayer before his Book.</head>
+            <l>NOw thou who knowst the obtuſe heart of Man,</l>
+            <l>Who meaſureſt the Earth as with a ſpan,</l>
+            <l>Who keepſt the hurling VVinds within thy fist,</l>
+            <l>So that they cannot rage, but when thou liſt;</l>
+            <l>Who graſpſt the curled VVaves within thy hand;</l>
+            <l>Who numbereſt each fraction in the ſand;</l>
+            <l>Whoſe Power can be abated by no Faction;</l>
+            <l>Who ſwaist, and over-rulest every action;</l>
+            <l>So guide, and rule, this Terrene hand of mine,</l>
+            <l>That whoſo reads, may know the work is thine.</l>
+            <l>Pardon, O pardon, my preſumptuous hand,</l>
+            <l>For his dear ſake, who Advocate doth ſtand</l>
+            <l>At thy right hand, to ſtay deſerved ire,</l>
+            <l>Which elſe for Sin, might juſtly be my hire.</l>
+            <l>But ſince his Blood has waſht my Sins away,</l>
+            <l>Now ſhew thy mercy on new-moulded clay.</l>
+            <l>Thy Mercy, makes thy Glory, brighter ſhine,</l>
+            <l>Than all thy Attributes, great, and Divine.</l>
+            <l>Direct, and lead, my Heart, my Hand, and Pen,</l>
+            <l>That all may glorify thy Name.</l>
+            <closer>Amen.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:33835:7"/>
+            <head>The WHITE-POWDER PLOT Diſcovered.</head>
+            <l>
+               <seg rend="decorInit">D</seg>Ark Nights black Curtains being ſomething drawn,<note place="margin">A deſcrip<g ref="char:EOLhyphen"/>tion of the Morning.</note>
+            </l>
+            <l>Grey-eyd <hi>Aurora</hi> in a ſmock of Lawn</l>
+            <l>Appears: and <hi>Darkneſs</hi> like a Drunkard reels</l>
+            <l>Through dayes by-paths, but ſhuns the burning Wheels</l>
+            <l>Of glorious <hi>Titan,</hi> who doth bluſh to ſee</l>
+            <l>
+               <hi>Aurora</hi> up and ready, before he</l>
+            <l>Could fix his fulgent Raies upon his head,</l>
+            <l>Which dies the Eaſtern World with ſo much Red,</l>
+            <l>That 't cauſed Mortals ſtand and gaze thereon,</l>
+            <l>Imagining ſome haughty <hi>Phaeton</hi>
+            </l>
+            <l>Uſurpt his Fathers Charet once again,</l>
+            <l>To curb his fiery Horſes with the Reign.</l>
+            <l>Juſt at this time, even at this preſent hour,</l>
+            <l>I laid me down within a pleaſant Bowr.</l>
+            <l>The Hawthorn's white, the Brier begins to bud,<note place="margin">The Spring deſcribed.</note>
+            </l>
+            <l>Upon the Graſs appears a Chriſtal flood</l>
+            <l>Of pearled Dew, to quaver up and down,</l>
+            <l>As threatning th' Earth once more therewith to drown.</l>
+            <l>Roſes, and Violets, Flowers of fragrant ſmell,</l>
+            <l>Did on ſuch cluſters, in this Arbour dwell,</l>
+            <l>As though alone within this pleaſant Arbour,</l>
+            <l>The choiſeſt Flowers on Earth did ſtrive to harbour.</l>
+            <l>Grazing my Senſes on this new come brood</l>
+            <l>Of Springs ſweet Progeny, me thought there ſtood</l>
+            <pb n="2" facs="tcp:33835:8"/>
+            <l>A Man <hi>Angelical,</hi> his Robes were White,</l>
+            <l>His hair was long, much like a <hi>Nazarite,</hi>
+            </l>
+            <l>Whoſe awful ſight cauſing my fleſh to quake,</l>
+            <l>To eaſe my fear, thus (thunder-like) he ſpake;</l>
+            <l>Fear not (ſaid he) good courage take, my Friend,</l>
+            <l>For I come to thee for a holy end,</l>
+            <l>That what by mee, to thee, this time preſages</l>
+            <l>Thou maiſt proclame unto ſucceeding ages,</l>
+            <l>And unto Mortals, teſtifie, and tell,</l>
+            <l>Thoſe things thou hear'ſt, and ſeeſt, in Heaven and Hell.</l>
+            <l>Alas (ſaid I) I am but rural brea,</l>
+            <l>Such high imploiments will confound my head,</l>
+            <l>If that thy powerful Deity will be pleas'd,</l>
+            <l>Let thy poor Vaſſal of this task be eas'd,</l>
+            <l>Eiect a Perſon of ſome greater worth,</l>
+            <l>Who can with Lofty, Courtly, terms ſet forth</l>
+            <l>Theſe Myſteries: poor <hi>Hackneis</hi> ſerve for <hi>Us,</hi>
+            </l>
+            <l>And none but <hi>Courtiers</hi> mount <hi>Bucephalus.</hi>
+            </l>
+            <l>My faltering tongue theſe words had ſcarcely ſaid,</l>
+            <l>When into th' Arbour ſteps a modeſt Maid,</l>
+            <l>And in her hand, ſhe brought a Pen and Ink,</l>
+            <l>Some of the <hi>Muſes</hi> ſure ſhe was, I think,</l>
+            <l>Who ſtooping to the ground, kneeling thereon,</l>
+            <l>I brought this Ink (ſaid ſhe) from <hi>Helicon:</hi>
+            </l>
+            <l>Within that Pen-ſheath likewiſe is a Quill</l>
+            <l>Pull'd (from a Swan bred on <hi>Parnaſſus</hi> Hill)</l>
+            <l>By cunning <hi>Mercury,</hi> who prov'd the ſame,</l>
+            <l>To win that beautiful, and ſtarely Dame,</l>
+            <l>Proud <hi>Danae</hi> to <hi>Jupiter</hi> for Gold,</l>
+            <l>As antient Poets have in Stories told.</l>
+            <l>This ſaid, She made it faſt unto my ſide,</l>
+            <l>Then out of ſight more quick than lightning glide.</l>
+            <l>My eye ſcarce twinkled after this was done,</l>
+            <l>But ſtrait I ſound my reſolution</l>
+            <l>Quite metamorphoz'd, ready preſt to go</l>
+            <l>Where e'r it pleas'd my Guide conduct me to.</l>
+            <l>Well (ſaid the <hi>Angel</hi>) we muſt hence away,</l>
+            <l>Our buſineſs calls, and will not brook delay.</l>
+            <pb n="3" facs="tcp:33835:8"/>
+            <l>With that, as though a thunder-bolt were driven</l>
+            <l>Upon proud Earth, from juſt revenging Heaven,</l>
+            <l>So faſt, and faſter were my Guide and I</l>
+            <l>Mounted from th' Earth, above the azur'd Sky.</l>
+            <l>Even here I found, that our Divines ſay true,</l>
+            <l>We ſhall know men in Heav'n, which we ne'r knew</l>
+            <l>Here upon Earth: and therefore ſure to know</l>
+            <l>Thoſe friends above, which here we know below.</l>
+            <l>For like as <hi>Adam</hi> knew his new-fram'd Wife<note place="margin">Simile</note>
+            </l>
+            <l>So ſoon as ere ſhe had a taſte of life:</l>
+            <l>And ſtraitway call'd upon her by her name,</l>
+            <l>Ne'r asking what ſhe was, not how ſhe came;</l>
+            <l>And like as <hi>Scripture</hi> unto us diſcloſes,</l>
+            <l>How that <hi>Elias,</hi> and the Prophet <hi>Moſes,</hi>
+            </l>
+            <l>Were known to <hi>Chriſt</hi>'s Diſciples on the Mount,</l>
+            <l>When whoſo liſt to calculate, or count,</l>
+            <l>Shall find thoſe <hi>Prophets</hi> died long before,</l>
+            <l>Above a thouſand years, or rather more.</l>
+            <l>As <hi>Adam</hi>'s Wife, and as th' Apoſtles theſe</l>
+            <l>By inſpiration knew; So did it pleaſe</l>
+            <l>Th' Almighty Rector of the hearts, that I</l>
+            <l>Whilſt I remain'd in thoughts above the Sky,</l>
+            <l>Was excellent in knowledge, could have told</l>
+            <l>Each Man, or Angels name, I did behold.<note place="margin">A Parlia<g ref="char:EOLhyphen"/>ment in Heaven.</note>
+            </l>
+            <l>Then inſtantly, a Cloud was drawn away,</l>
+            <l>Which done, I might behold as clear as day</l>
+            <l>A ſpacious place, all richly gilt with Gold,</l>
+            <l>And pretious Stones, mine eies did ne'r behold</l>
+            <l>So rare a Proſpect, Man cannot invent</l>
+            <l>A thing of ſo great note or wonderment.</l>
+            <l>Here did the <hi>Prophets,</hi> and <hi>Apoſtles</hi> ſit,</l>
+            <l>Th' <hi>Evangeliſts,</hi> and all the reſt that writ</l>
+            <l>The life of <hi>Jeſus,</hi> and his ſacred Word,</l>
+            <l>And all that <hi>Martyr'd</hi> were, by fire and ſword,</l>
+            <l>Whoſe Robes were as of colour d'yd in blood.</l>
+            <l>I to behold this <hi>Army Royal</hi> ſtood</l>
+            <l>As metamorphoz'd; yet deſir'd to know</l>
+            <l>Th' event would follow ſuch a glorious ſhow:</l>
+            <pb n="4" facs="tcp:33835:9"/>
+            <l>Like when a <hi>Traveller</hi> weary, and ſore,<note place="margin">Simile.</note>
+            </l>
+            <l>With travel, ſits him down upon the ſhore</l>
+            <l>Neer to the Sea, ſeeking his limbs to eaſe;</l>
+            <l>He takes delight to view the reſtleſs Seas,</l>
+            <l>Birds ſweetly ſing, the Sun moſt gently ſhines,</l>
+            <l>The VVinds are calm, each thing to reſt inclines;</l>
+            <l>When all on ſudain he is circled round</l>
+            <l>With furious Lions, hemming in the ground,</l>
+            <l>Each Lion on his curled back doth bear</l>
+            <l>An armed Man, or warlike Trumpetter,</l>
+            <l>Then Winds they bluſter, Seas they rage and ſwell,</l>
+            <l>The Trumpets ſound, the Lions roar and yell,</l>
+            <l>The Heavens rend, ſending huge claps of thunder,</l>
+            <l>And all at once ingender cauſe of wonder:</l>
+            <l>So whilſt I ſat in ſilence, with intent</l>
+            <l>To ſee what this <hi>Aſſembly Royal</hi> meant;</l>
+            <l>A ſudain voice more fearful than all theſe,</l>
+            <l>The Lions, Thunder, Trumpets, and the Seas,</l>
+            <l>Did pour forth words, but every word it ſpake,</l>
+            <l>Made all the frame of Heaven to dance, and ſhake;</l>
+            <l>Then caſting up mine eies a little higher,</l>
+            <l>I ſaw a bleeding Lamb in clouds of fire,</l>
+            <l>Which did his ſpeeches, down to them direct,</l>
+            <l>Whoſe words were theſe, or unto this effect.</l>
+            <sp>
+               <stage>The Lamb's Speech in Parliament.</stage>
+               <l>SHall I, the uncreated <hi>King of Kings,</hi>
+               </l>
+               <l>Be torn, and tortur'd, by theſe Earthly things?</l>
+               <l>Shall <hi>Juſtice,</hi> (ſtaid by <hi>Mercy,</hi>) make them bold?</l>
+               <l>Shall th' <hi>Potter</hi> by his Veſſel be controld?</l>
+               <l>Have I not cheriſh'd, nouriſh'd, bent my ſmiles</l>
+               <l>Upon that <hi>Iland,</hi> above all the <hi>Iles</hi>
+                  <note place="margin">Great Bri<g ref="char:EOLhyphen"/>tain.</note>
+               </l>
+               <l>Of the Terreſtrial Orb? Have I not given</l>
+               <l>The crums of <hi>Manna,</hi> and the dew of Heaven,</l>
+               <l>For meat, and drink, unto that wretched Land,</l>
+               <l>And like a Nurſe fed them with breaſt and hand?</l>
+               <l>What do they want that Man can ſay is good,</l>
+               <l>They eat, and drink<g ref="char:punc">▪</g> my Body and my blood.</l>
+               <pb n="5" facs="tcp:33835:9"/>
+               <l>The more they feed on me, I love them more,</l>
+               <l>Did <hi>Man,</hi> or <hi>God,</hi> e'r ſhew ſuch love before!</l>
+               <l>And yet this thus bleſt Nation hath begun</l>
+               <l>To diſobey the <hi>Father,</hi> ſcorn the <hi>Son,</hi>
+               </l>
+               <l>And that their Sins might ripen to the moſt</l>
+               <l>Spurn at the (Comforter) the <hi>Holy Ghoſt.</hi>
+               </l>
+               <l>How dare they (each day praying) call me <hi>Father,</hi>
+               </l>
+               <l>When they appear, to be the <hi>Devils</hi> rather?</l>
+               <l>If I thy <hi>Father</hi> be, and thou my <hi>Son,</hi>
+               </l>
+               <l>Where is the honor thou to me haſt done?</l>
+               <l>Is it in offering Incenſe unto <hi>B'all,</hi>
+               </l>
+               <l>Or in thy feaſting <hi>Locuſts</hi> in thy hall?</l>
+               <l>Am I ſo black, is my ſurpaſſing beauty</l>
+               <l>So far decay'd, that thou forgetſt they duty?</l>
+               <l>Oh no, 'tis ſure in me is found no change,</l>
+               <l>But thy corruption makes thee prone to range,</l>
+               <l>Thou art ingrafted ſo on things below,</l>
+               <l>That Heavenly things thou careſt not to know.</l>
+               <l>I with the <hi>Ocean</hi> have hemd them in</l>
+               <l>To keep them to myſelf, from forein ſin,</l>
+               <l>Yet make they <note n="*" place="margin">Ships.</note> Wooden Bridges, where paſs over</l>
+               <l>
+                  <hi>Romes</hi> Babylonians, from <hi>France</hi> to <hi>Dover,</hi>
+               </l>
+               <l>They 'r ſo beſotted with that helliſh train,</l>
+               <l>As though the <hi>Romans</hi> were their <hi>Lords</hi> again.</l>
+               <l>And it were juſt, to leave them in their paws,</l>
+               <l>To be conſumed with their <hi>Fagot-Laws,</hi>
+               </l>
+               <l>And take my Candle-ſtick from off their boards,</l>
+               <l>And giv't to ſome that better fruits affords.</l>
+               <l>Th' <hi>Infernal Fiends</hi> for <hi>Juſtice</hi> rage, and rave,</l>
+               <l>
+                  <hi>Juſtice</hi> they cry for, <hi>Juſtice</hi> they ſhall have:</l>
+               <l>When th' quinteſſence of <hi>Juſtice</hi> ſhall be ſhown,</l>
+               <l>The Devil, and Hell, can have but what 's their own,</l>
+               <l>And thoſe are theirs I will no longer cheriſh,</l>
+               <l>Mine ſhall be ſafe, although the damned periſh:</l>
+               <l>But you that are my ſolace, and my joy,</l>
+               <l>Who ſuffer'd tribulation, and annoy,</l>
+               <l>For my names ſake, whilſt you on Earth remain'd,</l>
+               <l>And now the Crown of glory have attain'd,</l>
+               <pb n="6" facs="tcp:33835:10"/>
+               <l>I make y' Exec'tors of my Teſtament,</l>
+               <l>Perform 't according to my juſt intent.</l>
+               <l>Let it be publiſhed abroad for uſe,</l>
+               <l>Not ſubjected to ſilence, and abuſe,</l>
+               <l>Nor yet be writ in <hi>Babels</hi> unknown tone,</l>
+               <l>Th' Author of Folly, and Confuſion,</l>
+               <l>But fair engroſs'd in <hi>Text,</hi> to read and ſpell,</l>
+               <l>That thoſe that run, or ride, may read it well,</l>
+               <l>And ſee what <hi>Hell</hi> that <hi>Lower-houſe</hi> requires,</l>
+               <l>If it be juſt, confirm to their deſires.</l>
+               <l>But look that <hi>Mercy,</hi> which is my delight,</l>
+               <l>Be not encroach'd on, by the Prince of Night,</l>
+               <l>My Bleſſing, Love, and Peace be with you ſtill,</l>
+               <l>I leave you now, to execute my will.</l>
+               <stage>The Lamb's Speech ends.</stage>
+            </sp>
+            <l>This ſaid, he veil'd himſelf behind a Cloud,</l>
+            <l>As doth the Sun, when he his Raies doth ſhrowd.</l>
+            <l>Then did the <hi>Saints</hi> unto the <hi>Lamb</hi> ſing praiſe,</l>
+            <l>In holy Songs, and heavenly Roundelaies:</l>
+            <l>Sitting attentive to receive ſuch bills,</l>
+            <l>As any offer'd, and to right their ills.<note place="margin">St. <hi>Mi<g ref="char:EOLhyphen"/>chael.</hi>
+               </note>
+            </l>
+            <l>
+               <hi>My Guide,</hi> whom now I know to be the ſame</l>
+            <l>Who ſtriving with the <hi>Devil,</hi> overcame,</l>
+            <l>For <hi>Morſes</hi> body, which devouring <hi>Dis</hi>
+            </l>
+            <l>Did claim, and falſely challenge to be his,</l>
+            <l>Took me by th' hand (ſaying) we muſt to <hi>Hell</hi>
+            </l>
+            <l>To ſee their actions that below do dwell;</l>
+            <l>But fear thou nothing: for even I thy Guide</l>
+            <l>Will thee protect from Hell, or ought beſide.</l>
+            <l>Stra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we deſcended to <hi>Infern Abyſſe,</hi>
+               <note place="margin">Hell deſcri<g ref="char:EOLhyphen"/>bed.</note>
+            </l>
+            <l>Where black <hi>Egyptian Darkneſs</hi> alwaies is,</l>
+            <l>Darkneſs indeed, ſo thick it may be felt,</l>
+            <l>Where Helliſh ſtink of <hi>Styx</hi> we quickly ſmelt,</l>
+            <l>But when my Guide with 's finger toucht my noſe</l>
+            <l>All ſmelt to me as ſweet as any Roſe.</l>
+            <l>And though we were where t'is eternal night,</l>
+            <l>Yet had we to our ſelves a glorious light.</l>
+            <l>Thus walking ſafely in the ſhades of death,</l>
+            <l>Drawing in midſt of ſtink, delicious breath;</l>
+            <pb n="7" facs="tcp:33835:10"/>
+            <l>By this we came unto the Rivers brink,</l>
+            <l>Which was of colour full as black as Ink;</l>
+            <l>Here did <hi>Night-Ravens,</hi> and the <hi>Scritch-Owls</hi> fly,</l>
+            <l>Here did the <hi>Harpies,</hi> and <hi>Hyennaes</hi> cry,</l>
+            <l>Here did the <hi>Toads,</hi> and <hi>Crocodiles</hi> rejoyce,</l>
+            <l>Here did the <hi>Yelling Dragons</hi> make a noiſe;</l>
+            <l>Here ſat old <hi>Charon</hi> in his loathſome Boat,</l>
+            <l>Near to the ſhoar, in careleſs wiſe on float;</l>
+            <l>Here did I ſuch a lovely ſight behold,<note place="margin">
+                  <hi>Charon</hi> deſcribed.</note>
+            </l>
+            <l>As <hi>Paint</hi> ne'r drew, nor <hi>Story</hi> ever told.</l>
+            <l>This tatter'd <hi>Devil,</hi> his ſhagged locks were black,</l>
+            <l>Which hang benitted dangling on his back,</l>
+            <l>In curled rolls, as ugly and as big,</l>
+            <l>As any Monſieurs pock-hold Periwig;</l>
+            <l>His head hung lolling down betwixt his thighs;</l>
+            <l>As burniſhd ſawcers brandiſhed his eyes.</l>
+            <l>Well (quoth <hi>my Guide</hi>) to make our time ſeem ſhort,</l>
+            <l>With this old Boat-man, we will have ſome ſport.</l>
+            <l>
+               <hi>Charon</hi> (ſaid he) I charge thee forthwith tell</l>
+            <l>What caus'd that uproar was of late in Hell?</l>
+            <l>Like to the ſlow pace of a Thief by night,<note place="margin">Simile.</note>
+            </l>
+            <l>Or like a houſe remov'd by force and might,</l>
+            <l>Or like a Ship that 's turn'd without a Helm,</l>
+            <l>Or like one lifting at a mighty Elm,</l>
+            <l>As ſwift at leaſt it ſeem'd, or ſomething more</l>
+            <l>Was <hi>Charon</hi>'s haſte to turn him to the ſhoar.</l>
+            <l>Then like the voice of one from under ground,<note place="margin">Simile.</note>
+            </l>
+            <l>Or like the opening of a deep-mouth'd Hound,</l>
+            <l>Or like one clos'd within a hollow Oak,</l>
+            <l>With belching voice at laſt theſe words he ſpoke.</l>
+            <sp>
+               <stage>
+                  <hi>Charon</hi>'s Speech.</stage>
+               <l>I marvel you that live in blisfull light,</l>
+               <l>Should trouble us here in eternal night,</l>
+               <l>Our <hi>Prince</hi> is more abated of his <hi>Pride</hi>
+               </l>
+               <l>By <hi>thee,</hi> than all the Hoſt of <hi>Heaven</hi> beſide.</l>
+               <l>Know that this hurly-burly here of late</l>
+               <l>Was cauſed by two <hi>Potentates of State,</hi>
+               </l>
+               <l>In <hi>Parliament</hi> which ſhould the <hi>Speaker</hi> be,</l>
+               <l>And they in words did ſo far diſ-agree,</l>
+               <pb n="8" facs="tcp:33835:11"/>
+               <l>That from great words to fearful blows they fell,</l>
+               <l>So that th' Inferiour Subjects of black Hell,</l>
+               <l>Some taking this part, and ſome taking that,</l>
+               <l>They dealt full roundly many a churliſh bat.</l>
+               <l>The noiſe being heard by <hi>Pluto,</hi> who did dine</l>
+               <l>At that ſame inſtant with his <hi>Proſerpine,</hi>
+               </l>
+               <l>Caus'd him on ſudain riſe, and leive his Wife,</l>
+               <l>To know the meaning of ſuch deadly ſtrife:</l>
+               <l>When coming, many a griſly Devil he found,</l>
+               <l>By ſturdy ſtroaks, ly tumbling on the ground,</l>
+               <l>But by his preſence having made them ceaſe,</l>
+               <l>And (which is ſeldom known in Hell) made peace,</l>
+               <l>Inquiring of the cauſe of this debate,</l>
+               <l>Forth ſteps a Devil with a broken pate,</l>
+               <l>And unto <hi>Pluto</hi> in plain terms did tell,</l>
+               <l>How that ſtern <hi>Judas</hi> and <hi>Achitophel</hi>
+               </l>
+               <l>Were cauſe of all: For that they ſtrive (ſaid he)</l>
+               <l>Which in this Parliament ſhall <hi>Speaker</hi> be.</l>
+               <l>Then <hi>Pluto</hi> charg'd them both by <hi>Archeron,</hi>
+               </l>
+               <l>
+                  <hi>Charon, Styx, Tartar, Po,</hi> and <hi>Phlegeton,</hi>
+               </l>
+               <l>That they therein hereafter ſhould not ſtrive,</l>
+               <l>For he would by his own <hi>Prerogative,</hi>
+               </l>
+               <l>Determine it the next time he had leaſure,</l>
+               <l>Commanding them, on pain of his diſpleaſure,</l>
+               <l>Not once to mention it in the mean ſpace.</l>
+               <l>Then ſtrait took Boat, and landed at this place,</l>
+               <l>With whom in company is gone the <hi>Pope,</hi>
+               </l>
+               <l>Who are arriv'd on Earth by this, and hope</l>
+               <l>To bring good tidings unto Hell again</l>
+               <l>From all their Factors that on Earth remain.</l>
+            </sp>
+            <l>For Whom (ſaid th' Angel) wilt thou give thy voice,</l>
+            <l>Or which will <hi>Pluto</hi> (think'ſt thou) make his choice?</l>
+            <l>I'm ſure (ſaid <hi>Charon) Judas</hi> is the Man,</l>
+            <l>(Let proud <hi>Achitophel</hi> do what he can)</l>
+            <l>For his true ſervice and great labour ſpent</l>
+            <l>On Hells behalf in former <hi>Parliament.</hi>
+            </l>
+            <l>I charge thee <hi>Charon</hi> (ſaid my powerful <hi>Guide</hi>)</l>
+            <l>Since leaſure doth permit thee at this tide,</l>
+            <pb n="9" facs="tcp:33835:11"/>
+            <l>Declare what <hi>Parliament,</hi> and for what reaſon</l>
+            <l>Did <hi>Pluto</hi> call the ſame, and ſince that ſeaſon</l>
+            <l>What acts did <hi>Judas,</hi> which his fame did raiſe</l>
+            <l>So high, that he deſerves ſo much thy praiſe.</l>
+            <l>Like to a fretted <hi>Ape</hi> that mops and mows,</l>
+            <l>Or like a <hi>Baboons</hi> fond fac'd antique ſhows,<note place="margin">Simile.</note>
+            </l>
+            <l>Or like a <hi>Bull</hi> thats chewing of his cudd,</l>
+            <l>So <hi>Charon</hi> fares: Then faſt into the mudd</l>
+            <l>He runs his Boat, with all the force of Oar,</l>
+            <l>And ſtepping forth, ſits on the <hi>Stygian</hi> ſhoar.</l>
+            <l>Then like the grumbling of ſome angry Cur,<note place="margin">Simile.</note>
+            </l>
+            <l>His ſlabber'd Chaps at laſt began to ſtir,</l>
+            <l>Sounding like one within an empty Tub,</l>
+            <l>At length theſe words were bluſter'd by this Cub.</l>
+            <sp>
+               <stage>
+                  <hi>Charon</hi>'s true tale.</stage>
+               <l>
+                  <hi>HE needs muſt run the Devil drives</hi> (they ſay)</l>
+               <l>But when the Heavens command, the Devils obey,</l>
+               <l>And (though per force) yet liſt and I will tell</l>
+               <l>The trueſt tale that e'r was told in Hell.</l>
+               <l>When <hi>Chriſt</hi> (that's call'd the Son of God) was born,</l>
+               <l>Our <hi>Pluto</hi> thinking for to work him ſcorn,</l>
+               <l>To further his determinated ends,</l>
+               <l>He ſummoned the chiefeſt of his <hi>Feinds,</hi>
+               </l>
+               <l>And though they ſat in Council day by day,</l>
+               <l>Yet all that ever they could plot, or ſay,</l>
+               <l>Could not prevail againſt that Heavenly Seed,</l>
+               <l>Whom Men call <hi>Saviour,</hi> as he is indeed,</l>
+               <l>Until full time was come, or he the rather</l>
+               <l>Offer'd himſelf, ſweet Incenſe to his <hi>Father,</hi>
+               </l>
+               <l>To ſatisfie his <hi>Juſtice</hi> once for all,</l>
+               <l>Who loſt his favour by frail <hi>Adam's fall.</hi>
+               </l>
+               <l>But where he gave our <hi>Prince</hi> one wound before,</l>
+               <l>He at his Death, gave many Millions more.</l>
+               <l>Each Chriſtian now dares challenge him the field,</l>
+               <l>And by Faith: force, inforce him for to yield.<note place="margin">The cauſe of Hells former Par<g ref="char:EOLhyphen"/>liament.</note>
+               </l>
+               <l>Our <hi>Prince</hi> was wounded full upon the face,</l>
+               <l>And galled with ſuch eminent diſgrace,</l>
+               <pb n="10" facs="tcp:33835:12"/>
+               <l>Came down to Hell, with Countenance ſo grim,</l>
+               <l>That ſcarce his <hi>Proſerpine</hi> durſt ſpeak to him;</l>
+               <l>But not the boldeſt or moſt hardy <hi>Spright</hi>
+               </l>
+               <l>That could be abſent, would come in his ſight.</l>
+               <l>His choler ſomething poſt; incontinent,</l>
+               <l>He calls his chiefeſt <hi>Lords</hi> to Parliament,</l>
+               <l>For to deviſe how to ſuppreſs <hi>Chriſt</hi>'s Word,</l>
+               <l>Which had already as a conquering ſword,</l>
+               <l>So rang'd about the World like a Commander,</l>
+               <l>That it was talkt on more than <hi>Alexander.</hi>
+               </l>
+               <l>Some ſaid it muſt be this way, Some, be that;</l>
+               <l>With eager minds both night and day they ſat.</l>
+               <l>(Quoth <hi>Pluto</hi>) though in Hell be plaguie Wits,</l>
+               <l>Yet there's not one that in this Council ſits</l>
+               <l>Hath levelled right, or ſhot juſt in the white.</l>
+               <l>At laſt ſtood up an old Gray-headed Spright,</l>
+               <l>An <hi>antient Dev'l,</hi> that winks ſtill with one eie,</l>
+               <l>By name he's called <hi>Swordly Policy;</hi>
+               </l>
+               <l>One ſo well red in Hells prognoſtick School,</l>
+               <l>No mortal man can take him for a Fool;</l>
+               <l>He made obeyſance, ſtooping ſo low down,</l>
+               <l>Until he made the table kiſs his crown;</l>
+               <l>Then with a hem or two, to clear his throat,</l>
+               <l>He ſung to <hi>Pluto,</hi> this well-pleaſing Note.</l>
+               <q>
+                  <l>
+                     <hi>Great Prince</hi> (ſaid he) although my face be old,<note place="margin">Worldly Policy's Counſel.</note>
+                  </l>
+                  <l>Yet ſhall my counſel be more worth than Gold.</l>
+                  <l>Thou knowſt that Chriſtian people make great odds</l>
+                  <l>Between us <hi>Devils,</hi> and th' immortal <hi>Gods:</hi>
+                  </l>
+                  <l>If we intend for to delude their ſight,</l>
+                  <l>We muſt transform our ſelves from black, to <hi>white,</hi>
+                  </l>
+                  <l>Seeming as though we came to them from Heaven,</l>
+                  <l>So by this means, they ſhall be quite bereaven</l>
+                  <l>To ſeek the right way, and be led by us;</l>
+                  <l>The platform of my drift is framed thus;</l>
+                  <l>Some old fac'd Devil, whereof we have good choice,</l>
+                  <l>Of ſubtile heart, but ſingular of voice,</l>
+                  <l>Shall ſtand for <hi>Peter,</hi> Now this is my plot,</l>
+                  <l>In <hi>Peter</hi>'s ſtead, to place <hi>Iſcariot.</hi>
+                  </l>
+                  <pb n="11" facs="tcp:33835:12"/>
+                  <l>The only Man, befitting ſuch a place,</l>
+                  <l>For he'l betray even <hi>Jeſus</hi> to his face.</l>
+                  <l>Thou knowſt Religion is as yet but young,</l>
+                  <l>Suppreſs it therefore, e'r it grow too ſtrong.</l>
+                  <l>I ſpeak not this, thy Tutor for to be,</l>
+                  <l>For all I have (<hi>Great Prince</hi>) proceeds from thee,</l>
+                  <l>But having ſhown my duty, from my breaſt,</l>
+                  <l>My part is plaid, do thou direct the reſt.</l>
+               </q>
+               <l>My Friend (ſaid <hi>Pluto</hi>) thou haſt pleas'd me well,</l>
+               <l>I henceforth make thee <hi>Chancellor of Hell.</hi>
+               </l>
+               <l>And forthwith <hi>Judas</hi> he did thither call,</l>
+               <l>Who being plac'd i'th' middle of the Hall;</l>
+               <q>
+                  <l>
+                     <hi>Judas</hi> (ſaid he) becauſe I have thee found<note place="margin">
+                        <hi>Pluto</hi> his Commiſsi<g ref="char:EOLhyphen"/>on to <hi>lu<g ref="char:EOLhyphen"/>das.</hi>
+                     </note>
+                  </l>
+                  <l>Unto my ſervice alwais firm and ſound,</l>
+                  <l>I mean t' imploy thee, and I here inſtall</l>
+                  <l>Thee upon Earth our <hi>Vicar General.</hi>
+                  </l>
+                  <l>Great <hi>Rome</hi> ſhall be thy Seat, as <hi>Peter</hi>'s Heir,</l>
+                  <l>Thou ſhalt inherit both his Keyes and Chair.</l>
+                  <l>But when thou nam'ſt thy ſelf, be ſure thou ly'ſt,</l>
+                  <l>And write thy ſelf, <hi>Servant of Jeſus Chriſt.</hi>
+                  </l>
+                  <l>So by that<g ref="char:punc">▪</g> means, men ſhall be drawn by thee,</l>
+                  <l>To proſtitute their Souls to Hell and me.</l>
+                  <l>In <hi>Biſhops</hi> habit ſhalt thou go each day,</l>
+                  <l>But in thy <hi>Robes</hi> ſhalt be more rich than they.</l>
+                  <l>Thou <hi>Keyes,</hi> and <hi>Croſier-ſtaff,</hi> in hands ſhalt bear,</l>
+                  <l>And <hi>Golden Sandals</hi> on thy feet ſhalt wear.</l>
+                  <l>No common Crown ſhall ſerve, thou ſhalt in ſtead</l>
+                  <l>Be triple-crown'd, and <hi>Myturd</hi> on thy head;</l>
+                  <l>That who ſo names, what on thy head he ſeeth,</l>
+                  <l>May have the <hi>Devils T</hi>—betwixt his teeth.</l>
+                  <l>Thou ſhalt not marry during all thy life,</l>
+                  <l>For many Whores are ſweeter than one Wife:</l>
+                  <l>Such Brood as on their wombs thou ſhalt beget,</l>
+                  <l>Make thy great <hi>Cardinals,</hi> let them be ſet</l>
+                  <l>In chiefeſt places, next to thy right hand,</l>
+                  <l>They may be alwaies ready at command.</l>
+                  <l>Fear nothing, never doubt in ought to err,</l>
+                  <l>For <hi>Wordly Policy</hi> thy Counſeller</l>
+                  <pb n="12" facs="tcp:33835:13"/>
+                  <l>Shall thee inſtruct; and ſee that no diſgrace</l>
+                  <l>Befall thy ſelf nor any in thy place.</l>
+                  <l>All <hi>Pluto</hi>'s Subjects ſhall on thee attend,</l>
+                  <l>With help from Hell; thou ſhalt not need to ſend.</l>
+                  <l>Give <hi>pardons</hi> for all Sins, nay, ſell them rather,</l>
+                  <l>For Whoredom, Murther, though one kill his <hi>Father,</hi>
+                  </l>
+                  <l>Commit Theft, Inceſt, or what ever thing,</l>
+                  <l>To any Subject that ſhall kill his <hi>King.</hi>
+                  </l>
+                  <l>Thus ſhalt thou heap up VVealth in endleſs ſtore</l>
+                  <l>By <hi>Bribes,</hi> and gifts, from every Knave or VVhore.</l>
+                  <l>Thus wealthy Men from Sin ſhall never ceaſe,</l>
+                  <l>In hope their pelf will purchaſe their releaſe.</l>
+                  <l>Imitate me thy <hi>Prince,</hi> for thou doſt know,</l>
+                  <l>That Fercer-like I give <hi>Chriſt</hi> blow for blow,</l>
+                  <l>And though I could not overcome by might,</l>
+                  <l>Yet ce<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt I not to work my utmoſt ſpight:</l>
+                  <l>So though thy aim do ſometimes chance to miſs,</l>
+                  <l>Yet faint nor, but moleſt both him and his.</l>
+                  <l>Strike the beſt Chriſtian alwaies on the face,</l>
+                  <l>And by all means work vertuous Men diſgrace.</l>
+                  <l>Though ne'r ſo ſmall their fault, yet ſhalt thou make</l>
+                  <l>Them baited be, like Bulls at every ſtake.</l>
+                  <l>Suppreſs Religion, but be ſure t'advance</l>
+                  <l>Found Superſtition, and Ignorance.</l>
+                  <l>Make Laws, and Statutes, wherein let't be death</l>
+                  <l>For him that whiſpers but the ſmalleſt breath</l>
+                  <l>Againſt thy Supreme Pow'r, ſo Mighty Nations</l>
+                  <l>Shall fear thy Bulls, and Excommunications.</l>
+                  <l>Let <hi>Dirges, Maſſes,</hi> and ſuch traſh be brought</l>
+                  <l>Into the Churches as are good for nought,</l>
+                  <l>But t' fill Mens minds with vain fantaſtick toies,</l>
+                  <l>As Drums and Ratles pleaſe young Gils and Boies.</l>
+                  <stage>The end of <hi>Pluto</hi>'s Oration.</stage>
+               </q>
+               <l>This ſaid, <hi>Don Pluto</hi> ſat down in his place,</l>
+               <l>For whilſt he ſpake he ſtood up all the ſpace.</l>
+               <l>
+                  <hi>Judaa</hi> by ſigns did gratify his <hi>Lord,</hi>
+               </l>
+               <l>For he made curt'ſies, but ſpake ne'r a word.</l>
+               <l>Then 't was devis'd how this great <hi>Potentate,</hi>
+                  <note place="margin">
+                     <hi>Iudas</hi> his State,</note>
+               </l>
+               <l>Should be conveid unto his <hi>Chair of State,</hi>
+               </l>
+               <pb n="13" facs="tcp:33835:13"/>
+               <l>Some ſaid't were fitting that the Great <hi>Iſcarios,</hi>
+               </l>
+               <l>Triumphant like ſhould have a ſtately Chariot.</l>
+               <l>Some ſaid, by water he might better go:</l>
+               <l>But I deni'd, and ſware I would not row</l>
+               <l>So far from <hi>Styx,</hi> although it be not far,</l>
+               <l>For <hi>Styx</hi> and <hi>Tyber,</hi> two neer neighbours are:</l>
+               <l>But loſs might come hereby, and you may note,</l>
+               <l>And we loſe Souls by wanting of my Boat.</l>
+               <l>One cry'd a Coach, and this was liked well,</l>
+               <l>The firſt that e'r was known was made in Hell,</l>
+               <l>Strait ſix <hi>Pegaſian Sprights</hi> were ready preſt,</l>
+               <l>To draw the Coach, in Harneſs richly dreſt,</l>
+               <l>
+                  <hi>Deſpight</hi> was Coach-man, whoſe commanding hand</l>
+               <l>Did guide the reigns, and make them go or ſtand<note place="margin">And At<g ref="char:EOLhyphen"/>tendants.</note>
+               </l>
+               <l>At every check, who with his knotty whip,</l>
+               <l>VVould now and then, cauſe them curvet and skip.</l>
+               <l>He had ſo his Poſtillian <hi>Vain Deſire,</hi>
+               </l>
+               <l>A vile ambirious Dwarff, who to be higher</l>
+               <l>Doth toil, and moil, in mire and dirt full oft,</l>
+               <l>And yet regards not, ſo he be aloft.</l>
+               <l>In th' one end <hi>Judas</hi> ſits, in th' other ſat</l>
+               <l>
+                  <hi>Pride,</hi> with a plume of feachers in his Hat.</l>
+               <l>In one Boot ſat <hi>Murther</hi> and <hi>Treachery,</hi>
+               </l>
+               <l>In th' other <hi>Drunkenneſs</hi> and <hi>Leachery,</hi>
+               </l>
+               <l>Twelve Lacquies ran cloſe by the Coaches ſide,</l>
+               <l>As peſtilent as any there, but <hi>Pride,</hi>
+               </l>
+               <l>Ten thouſand <hi>Furies</hi> rode before and after,</l>
+               <l>Some making antique tricks, provoking laughter,</l>
+               <l>So thus attended mighty <hi>Judas</hi> road,</l>
+               <l>And ſtrait in <hi>Rome</hi> was honored as God:</l>
+               <l>And reaſon good, who elſe durſt be ſo brisk</l>
+               <l>To tread upon the <hi>Aſp</hi> and <hi>Baſiliſque?</hi>
+               </l>
+               <l>At firſt he ſpreads abroad his potent Theam,</l>
+               <l>Charging the VVorld to Title him <hi>Supreme.</hi>
+               </l>
+               <l>The haughty <hi>Spaniard</hi> he began to puff,</l>
+               <l>And ſwore by's <hi>Rapier</hi> and great <hi>Spaniſh Ruff,</hi>
+                  <note place="margin">
+                     <hi>Spain</hi> is ſtartled.</note>
+               </l>
+               <l>That with the <hi>Prelates pride</hi> he would be even,</l>
+               <l>Scorning to ſtoop to any under Heaven.</l>
+               <pb n="14" facs="tcp:33835:14"/>
+               <l>To ſtop whoſe mouth, <hi>Judas</hi> did forthwith call</l>
+               <l>On <hi>Pride,</hi> who newly was made <hi>Cardinal,</hi>
+               </l>
+               <l>And ſent him <hi>Lord Ambaſſador</hi> to <hi>Spain,</hi>
+               </l>
+               <l>The ſcope of whoſe Embaſſage did contain,</l>
+               <l>That <hi>Spain</hi> ſhould pardons have for Uſurpation,</l>
+               <l>And Pride ſhould be no ſin unto that Nation.</l>
+               <l>He likewiſe from his <hi>Hollowneſs</hi> did bring,</l>
+               <l>
+                  <hi>Spain's</hi> Popiſh Title: <hi>The Catholick King.</hi>
+               </l>
+               <l>The Cardinal in <hi>Spain</hi> ſuch favour gain'd,</l>
+               <l>That by the <hi>King</hi> he ſtrait was entertain'd</l>
+               <l>In ſum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuous manner: who did likewiſe give</l>
+               <l>Him maintenance in <hi>Spain</hi> whilſt he ſhould live.</l>
+               <l>This news from <hi>Spain</hi> went poſting into <hi>France,</hi>
+                  <note place="margin">
+                     <hi>France</hi> fiels.</note>
+               </l>
+               <l>Who g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l'd therewith upon great Horſes prance</l>
+               <l>Into the fields, threatning not only <hi>Rome,</hi>
+               </l>
+               <l>But all that took their parts in <hi>Chriſtendom;</hi>
+               </l>
+               <l>Whoſe firy fury <hi>Judas</hi> to prevent,</l>
+               <l>Sent an <hi>Ambaſsador</hi> incontinent,</l>
+               <l>VVho brought them pardons for <hi>Idolatry,</hi>
+               </l>
+               <l>Fainthearted <hi>Cowardize,</hi> and <hi>Lechery,</hi>
+               </l>
+               <l>Though they ſhould worſhip breathleſs ſtones and ſtocks,</l>
+               <l>And Whore, and wanton till they got the <hi>Pox,</hi>
+               </l>
+               <l>Yet ſhould theſe be no ſins unto that Nation,</l>
+               <l>But only counted for their Countries faſhion.</l>
+               <l>Theſe things buz'd into their fantaſtick heads,</l>
+               <l>The Apes return from fields, unto their bedds.</l>
+               <l>This done th' <hi>Ambaſsadors</hi> return again,</l>
+               <l>The one from <hi>France,</hi> the other forth of <hi>Spain,</hi>
+               </l>
+               <l>The <hi>Spaniard</hi> ſent (in token of contrition)<note place="margin">Both are quieted.</note>
+               </l>
+               <l>VVord, he would found the <hi>Spaniſh Inquiſition.</hi>
+               </l>
+               <l>The <hi>French</hi> ſent word to <hi>Rome,</hi> he would advance</l>
+               <l>The <hi>Pope's Supremacy</hi> throughout all <hi>France.</hi>
+               </l>
+               <l>By imitation of theſe two great Kings,</l>
+               <l>He in ſhort time, into ſubjection brings,</l>
+               <l>All <hi>Chriſtendom,</hi> within the <hi>Papal</hi> power,</l>
+               <l>T'imbrew themſelves in luſt with-<hi>Babels Whore.</hi>
+               </l>
+               <l>Thus lull'd a-ſleep with poiſon of her Cup,</l>
+               <l>Of which all Chriſtian Nations took a ſup:</l>
+               <pb n="15" facs="tcp:33835:14"/>
+               <l>Hell danc'd for joy, for Souls did ſeldom ceaſe,</l>
+               <l>To fill my Boat, and glut Hell with increaſe:</l>
+               <l>From <hi>Sweathland, Poland, Holland, Germany,</hi>
+               </l>
+               <l>From <hi>Denmark, Ireland,</hi> and fair <hi>Albany</hi>
+               </l>
+               <l>Came <hi>Popiſh Proſelites</hi> in flocks to Hell:</l>
+               <l>It were impoſſible the number tell.</l>
+               <l>Thus it continu'd many hundred years,</l>
+               <l>Untill at length, in <hi>Germany</hi> appears</l>
+               <l>Some glimpſe o'th' <hi>Goſpel,</hi> and to <hi>England</hi> came</l>
+               <l>
+                  <hi>King Henry,</hi> call'd the <hi>eighth</hi> King of that name.</l>
+               <l>In whoſe laſt years, and his ſon <hi>Edward's</hi> Reign</l>
+               <l>Hells Kingdom loſt in <hi>England:</hi> But again</l>
+               <l>King <hi>Edward</hi> dead, Queen <hi>Mary</hi> got the Crown,</l>
+               <l>Our hopes revive, the <hi>Goſpel's</hi> troden down.</l>
+               <l>Oh then our friends did flouriſh in the Court,<note place="margin">
+                     <hi>Gardiner</hi> and <hi>Bon<g ref="char:EOLhyphen"/>ner.</hi>
+                  </note>
+               </l>
+               <l>
+                  <hi>London</hi> and <hi>Wincheſter</hi> did make us ſport.</l>
+               <l>My Boat and I, on <hi>Thames</hi> were as well known,</l>
+               <l>As here upon this River of our own.</l>
+               <l>But as for <hi>Lambeth,</hi> Canterburies ſeat,</l>
+               <l>Old <hi>Cranmer</hi> left thereon ſuch holy ſweat</l>
+               <l>As I had rather ſpend my time in Hell,</l>
+               <l>Than one hours ſpace, be bound t'abide that ſmell.</l>
+               <l>Well, all Queen <hi>Maries</hi> dayes, <hi>Smithfield</hi> did flame</l>
+               <l>With fire and Faggots, one may without ſhame</l>
+               <l>Report that <hi>Smithfield</hi> had more Roaſt therein</l>
+               <l>Than all <hi>Pye-corner,</hi> yet commit no ſin.</l>
+               <l>But ſure I think, that blood for <hi>vengeance</hi> cry'd</l>
+               <l>'Gainſt <hi>Rome</hi> and <hi>Hell,</hi> for then Queen <hi>Mary</hi> dy'd:</l>
+               <l>Whoſe too ſtout ſiſter, baniſhed the <hi>Pope,</hi>
+                  <note place="margin">Q. <hi>Eliz.</hi>
+                  </note>
+               </l>
+               <l>His <hi>Maſſe-Prieſts</hi> ſuffering penance in a <hi>Rope.</hi>
+               </l>
+               <l>And although <hi>Rome</hi> did oft ſtout ſpirits ſend,</l>
+               <l>With ſtrange deviſes for to work her end,</l>
+               <l>Yet could they ne'r prevail, good reaſon why,</l>
+               <l>For ſhe had help which man could not eſpy.</l>
+               <l>As in her life, ſo did ſhe at her death</l>
+               <l>Her Crown and Kingdom unto one bequeath</l>
+               <l>As far declining from <hi>Romes</hi> pow'r as ſhe,</l>
+               <l>As by his own hand-writing you may ſee,</l>
+               <pb n="16" facs="tcp:33835:15"/>
+               <l>Whoſe Son (Great <hi>Charls</hi>) is of his fathers mind,</l>
+               <l>So that we are almoſt paſt hope to find</l>
+               <l>Any redreſs in <hi>England:</hi> yet we hope'd</l>
+               <l>That when their <hi>King</hi> had with Queen <hi>Mary</hi> cop'd,</l>
+               <l>We ſhould have gotten in by means of <hi>France,</hi>
+               </l>
+               <l>And by Queen <hi>Maries</hi> means our cauſe advance,</l>
+               <l>But ſhe's more like to <hi>Mary Chriſts</hi> dear Mother,</l>
+               <l>Than their laſt <hi>Mary Queen,</hi> or any other.</l>
+               <l>Yet under colour of that <hi>Flower de Luce,</hi>
+               </l>
+               <l>Our <hi>Prieſts</hi> make bold to chatter and ſeduce:</l>
+               <l>So that in <hi>England</hi> we have better ſtore</l>
+               <l>Of Papiſts now, than three-ſcore years before.</l>
+               <l>By this, and other grievous ſins we know,</l>
+               <l>Which in that Land do plentifully flow,</l>
+               <l>We hope ſuch Bills againſt them to preferr</l>
+               <l>As ſhall take place at Gods Tribunal Barr.</l>
+               <l>As he is mercifull, ſo is he juſt:</l>
+               <l>And Sinnets certainly he puniſh muſt.</l>
+               <l>If We for one ſin were caſt down to Hell,</l>
+               <l>And they unpuniſh'd paſs; he doth not well.</l>
+               <l>For our one ſin, we'l prove at leaſt a ſcore</l>
+               <l>Imbrac'd by them, if not a thouſand more:</l>
+               <l>We ſtay but till our Prince return again,</l>
+               <l>And then we hope to work their utter bane.</l>
+               <l>Now have I done, I can no longer ſtay,</l>
+               <l>For <hi>Pluto</hi> calls, and I muſt needs obey.</l>
+               <stage>
+                  <hi>Charons</hi> Tale ends.</stage>
+            </sp>
+            <l>Thus with a clowniſh tone his tale he ends,</l>
+            <l>Then to his ruſty Boat in haſte he wends.</l>
+            <l>My <hi>Angel</hi> ſmil'd to ſee this haſty Devil,</l>
+            <l>How ſwift are they (ſaid he) to run to evil?</l>
+            <l>But we'l prevent their haſte, and be in Hell</l>
+            <l>Before they come to hear <hi>Achitophel</hi>
+            </l>
+            <l>Diſpute with <hi>Judas,</hi> for the <hi>Speakers</hi> place,</l>
+            <l>And yet we'l be concealed all the ſpace.</l>
+            <l>Then were we there, before one could deviſe</l>
+            <l>To think one thought, or twinkle with one's eyes.</l>
+            <l>The place was wondrous ſpacious, dark as night,<note place="margin">Hell de<g ref="char:EOLhyphen"/>ſcribed.</note>
+            </l>
+            <l>But that Sulphureous fire did give ſome light.</l>
+            <pb n="17" facs="tcp:33835:15"/>
+            <l>The noyſe was marvellous, the ſhrieks and howls,</l>
+            <l>Which pierc'd our ears, from Hell-tormented Souls.</l>
+            <l>The ſeveral torments I cannot declare,</l>
+            <l>But wiſh all men take heed, they come not there.</l>
+            <l>Scarce had we view'd this ghaſtly ſpacious round</l>
+            <l>But that we heard a ſtrange diſordered ſound,</l>
+            <l>Much like the noiſe of ſome Rebellious rout,</l>
+            <l>Such burly burly was made all about.</l>
+            <l>By which we gueſt, that place was then prepar'd</l>
+            <l>Againſt the Diſputation ſhould be heard.</l>
+            <l>And as we thought, ſo did the matter prove,<note place="margin">A Parlia<g ref="char:EOLhyphen"/>ment in Hell.</note>
+            </l>
+            <l>For ſtrait came <hi>Pluto,</hi> and with him his Love,</l>
+            <l>VVith whom ſuch multitudes of <hi>Devils</hi> came</l>
+            <l>As it is paſt all cunning for to the name.</l>
+            <l>The Rable ſet, in ſome diſordered order,</l>
+            <l>There ſtood up one, I think 'twas <hi>Hells Recorder,</hi>
+            </l>
+            <l>VVho after Declaration of the cauſe</l>
+            <l>Of this their meeting, took a little pawſe,</l>
+            <l>Then roaring out aloud, he did proclame,</l>
+            <l>In their great Prince, <hi>Don Plutoes</hi> dreadfull name,</l>
+            <l>That none ſhould dare, once ſilence for to break</l>
+            <l>VVhil'ſt the two Diſputants had ought to ſpeak.</l>
+            <l>This ſaid: <hi>Ahithophel</hi> appear'd in place,</l>
+            <l>And then came <hi>Judas,</hi> with a ſhameleſs grace,</l>
+            <l>VVho ſtrait began in vile unmanner'd ſort</l>
+            <l>VVithout leave ask'd, t' break ſilence in the Court.</l>
+            <l>But <hi>Pluto,</hi> ſharply him then reprehended,</l>
+            <l>Although (ſaid he) thou art to be commended</l>
+            <l>For much good ſervice, yet I muſt thee tell,</l>
+            <l>Thou art much younger than <hi>Ahithophel,</hi>
+            </l>
+            <l>So that when he his mind hath firſt declar'd</l>
+            <l>(<hi>My friend</hi>) at large thou likewiſe ſhalt be heard.</l>
+            <l>This cauſed <hi>Judas</hi> ceaſe; then ſtrait began</l>
+            <l>
+               <hi>Ahithophel</hi> to ſtroak his beard, and than,</l>
+            <l>Obeyſance made, with thanks unto his <hi>Prince,</hi>
+            </l>
+            <l>He thus begun.</l>
+            <sp>
+               <stage>
+                  <hi>Ahitho<g ref="char:EOLhyphen"/>phels</hi> Ora<g ref="char:EOLhyphen"/>tion.</stage>
+               <l>
+                  <hi>Moſt dreadfull Monarch,</hi> ſince</l>
+               <l>It is thy pleaſure, ſo far me to grace,</l>
+               <l>To give me ſuch preheminence of place,</l>
+               <pb n="18" facs="tcp:33835:16"/>
+               <l>And you my <hi>Lords,</hi> and fellow Furies all,</l>
+               <l>By him aſſembled, in this ſpacious Hall,</l>
+               <l>Give me but leave t'unfold my mortal life,</l>
+               <l>Then judge of <hi>me,</hi> this <hi>Judas,</hi> and our ſtrife.</l>
+               <l>My famous Counſel unto <hi>David,</hi> (King</l>
+               <l>Of mighty <hi>Judah</hi>) through the Word did ring,</l>
+               <l>He, and his Princes, did my couſnel follow</l>
+               <l>More than the Oracles of great <hi>Apollo.</hi>
+               </l>
+               <l>No thing was done, which pleaſed not me well,</l>
+               <l>No Counſel then, but from <hi>Ahithophel.</hi>
+               </l>
+               <l>Thus did I flouriſh in that famous Court</l>
+               <l>For many years, as <hi>Scriptures</hi> do report:</l>
+               <l>Until proud <hi>Abſalom</hi> began t' rebel,</l>
+               <l>Oh then began thy fall, <hi>Ahithophel.</hi>
+               </l>
+               <l>For though my Maſter was <hi>King, Prophet, Prieſt,</hi>
+               </l>
+               <l>And more than that, the Type of <hi>Jeſus Chriſt,</hi>
+               </l>
+               <l>Yet did I (Oh abominable thing)</l>
+               <l>Seek to betray this <hi>Prophet, Prieſt,</hi> and <hi>King.</hi>
+               </l>
+               <l>Read Hiſtories and Scriptures, o're and o're,</l>
+               <l>And you ſhall never find the like before.</l>
+               <l>And yet not ſatisfi'd with this great evil,</l>
+               <l>To ſhow I lov'd my Soveraign Lord the Devil,</l>
+               <l>I ſacrifiz'd to him my lateſt breath,</l>
+               <l>So to make ſure my everlaſting death,</l>
+               <l>Having a great deſire with him to dwell,</l>
+               <l>And, rather than ſee <hi>David,</hi> live in Hell.</l>
+               <l>I know that many fooliſh Jacks and Gills,</l>
+               <l>Have come to Hell: but ſore againſt their wills,</l>
+               <l>In hope to rid themſelves from further pain;</l>
+               <l>But I, of malice, and of proud diſdain</l>
+               <l>Did chuſe this place: becauſe I was perſwaded</l>
+               <l>I ſhould not meet my wronged Maſter <hi>David:</hi>
+               </l>
+               <l>VVhere I have dutifully ever ſince,</l>
+               <l>Attended on the perſon of our <hi>Prince.</hi>
+               </l>
+               <l>Now having both Antiquity and fame</l>
+               <l>Preceding <hi>Judas,</hi> I do hold it ſhame</l>
+               <l>To ſtand in competition with a fool,</l>
+               <l>VVho ne'r was train'd like me, in wiſdoms ſchool.</l>
+               <pb n="19" facs="tcp:33835:16"/>
+               <l>I hope this is ſufficient: and will try</l>
+               <l>VVhich of us twain, <hi>Iſcariot,</hi> or I,</l>
+               <l>Deſerve the more reſpect in each degree,</l>
+               <l>And therefore judge, betwixt the fool and me.</l>
+               <stage>
+                  <hi>Ahitho<g ref="char:EOLhyphen"/>phels</hi> Ora<g ref="char:EOLhyphen"/>tion ends.</stage>
+            </sp>
+            <l>Then ſent the <hi>Devils</hi> out a mighty yell,</l>
+            <l>Caſting up fire-brands, cry'd <hi>Ahithophel,</hi>
+            </l>
+            <l>
+               <hi>Ahithophel, Ahithophel,</hi> cry'd they</l>
+            <l>Muſt have the place, come, let us not delay</l>
+            <l>To give our voyces all with one conſent</l>
+            <l>He may be <hi>Speaker</hi> in this <hi>Parliament.</hi>
+            </l>
+            <l>Nay, ſoft (ſaid <hi>Judas</hi>) you muſt hear me ſpeak,</l>
+            <l>Or elſe you cauſe our Prince his promiſe break:</l>
+            <l>And when at full I have declar'd my mind,</l>
+            <l>Then give your voyces, unto him you find</l>
+            <l>The beſt deſerving, for our King and Hell,</l>
+            <l>VVhether to me, or proud <hi>Ahithophel.</hi>
+            </l>
+            <l>Then <hi>Pluto</hi> ſaid, they could not well deny</l>
+            <l>His reaſonable ſute, therefore reply</l>
+            <l>VVith expedition, what thou haſt to ſay,</l>
+            <l>For often danger is bred by delay.</l>
+            <l>Thus <hi>Judas</hi> having leave, did forthwith riſe,</l>
+            <l>And on <hi>Ahithophel</hi> did fix his eyes,</l>
+            <sp>
+               <stage>
+                  <hi>Iudas</hi> his ſpeech.</stage>
+               <l>I wonder (ſaid he) this man hath a face,</l>
+               <l>VVith me to make contention for this place,</l>
+               <l>For I can cauſe him eat each word he ſpake,</l>
+               <l>And for his folly, me amends to make:</l>
+               <l>One but half-witted, marking every word,</l>
+               <l>May well perceive, they very much afford</l>
+               <l>For my avail; for ſee how he begins</l>
+               <l>Even at the firſt (fool like) to break his ſhins.</l>
+               <l>He was of Counſel to a mighty King,</l>
+               <l>A goodly Diſh; nay more, to mend the thing,</l>
+               <l>Not onely <hi>King,</hi> but <hi>Prophet,</hi> and a <hi>Prieſt,</hi>
+               </l>
+               <l>And <hi>Type</hi> of that immortal <hi>Jeſus Chriſt.</hi>
+               </l>
+               <l>In one of theſe thou art miſtaken: why,</l>
+               <l>He was no <hi>Prieſt,</hi> and therein do'ſt thou lye,</l>
+               <l>Now judge of this, and of the reſt beſide,</l>
+               <l>He ſerv'd the <hi>Type,</hi> and <hi>I, him Typifi'd,</hi>
+               </l>
+               <pb n="20" facs="tcp:33835:17"/>
+               <l>He did the ſhaddow, I the ſubſtance ſerve</l>
+               <l>In all his life: and never from him ſwerve,</l>
+               <l>But followed him, and was of credit ſuch,</l>
+               <l>I all his Treaſure kept, though ne'r ſo much.</l>
+               <l>He did betray an Earthly man: but I</l>
+               <l>A heavenly wight, and <hi>King of Majeſty.</hi>
+               </l>
+               <l>Now judge, I pray, if our deſerts be even,</l>
+               <l>He betray'd Man, But I <hi>great God of Heaven.</hi>
+               </l>
+               <l>Did ever any do the like, beſide</l>
+               <l>My ſelf, and thee (<hi>great Belzebub</hi>) in pride?</l>
+               <l>I imitate thy ſelf, for thine was done</l>
+               <l>Againſt the Father, mine againſt the Son,</l>
+               <l>In one thing we agree all three the moſt,</l>
+               <l>VVe all did ſin againſt the <hi>Holy Ghoſt.</hi>
+               </l>
+               <l>But as my ſin was equal unto thine,</l>
+               <l>
+                  <hi>Ahithophels</hi> cannot compare with mine,</l>
+               <l>I did deſerve not onely to be <hi>Pope,</hi>
+               </l>
+               <l>But with great <hi>Belzebub</hi> himſelf to cope,</l>
+               <l>Much more to ſtand at this ſame time, for place,</l>
+               <l>VVith ſuch a ſlave, I do my ſelf diſgrace.</l>
+               <l>And therefore chuſe you whom you liſt, for me,</l>
+               <l>I ſcorn the matter ſhould in ballance be.</l>
+               <stage>
+                  <hi>Iudas</hi> his ſpeech ends.</stage>
+            </sp>
+            <l>And ſo in fury from the place he flung,</l>
+            <l>Having their ears with theſe his ſpeeches ſtung.</l>
+            <l>And when they ſaw how fiercely he departed,</l>
+            <l>It made <hi>Ahithophel</hi> to ſeem faint-hearted.</l>
+            <l>But all were mute, and dumb, till <hi>Pluto's</hi> ſelf</l>
+            <l>Began to ſpeak, (ſaid he) this peeviſh elf,</l>
+            <l>I mean <hi>Iſcariot,</hi> hath but truely ſaid,</l>
+            <l>And for his ſervice ſhould be ill apaid,</l>
+            <l>If we ſhould not reward him with this place,</l>
+            <l>Or any other, though of greater grace.</l>
+            <l>And as for thee <hi>Ahithophel,</hi> I'le ſee</l>
+            <l>By ſome means elſe, to grace and honour thee.</l>
+            <l>This ſaid, they all conſent, and gave their voyces</l>
+            <l>For <hi>Judas,</hi> which they yiel'd with fearfull noyſes,</l>
+            <l>Crying, a <hi>Judas, Judas,</hi> all about,</l>
+            <l>And ſo broke up this Court of helliſh rout.</l>
+            <pb n="21" facs="tcp:33835:17"/>
+            <l>Thus having ſeen <hi>Hells</hi> ſcope, and full intent,</l>
+            <l>VVe haſte to <hi>Heaven,</hi> againſt the Parliament,</l>
+            <l>VVhich we imagin'd would begin with ſpeed,</l>
+            <l>And as we thought, ſo did it prove indeed:</l>
+            <l>For as we came without the Walls, (we found)</l>
+            <l>Of <hi>New-Jeruſalem,</hi> a ſpacious ground<note place="margin">New Ie<g ref="char:EOLhyphen"/>ruſalem.</note>
+            </l>
+            <l>All full of ſeats, in order finely ſet,</l>
+            <l>Some white as Ivory, ſome black as Jet,</l>
+            <l>But none might come thereto by a great ſpace,</l>
+            <l>VVithout leave got, of them who kept the place,</l>
+            <l>VVhich were ſtrong <hi>Angels,</hi> who were ſet to guard</l>
+            <l>The place from comers, ſo I was debarr'd</l>
+            <l>From entrance in, untill my <hi>Angel</hi> ſaid</l>
+            <l>He muſt come in; who heard, was ſtrait obey'd.</l>
+            <l>Then ſate we down upon a bank of Roſes,</l>
+            <l>As wearied men are wont to take repoſes,</l>
+            <l>Untill ſuch time as ſome few hours were ſpent</l>
+            <l>Before th' appointed time of <hi>Parliament:</hi>
+            </l>
+            <l>But I being weak of nature, could not keep</l>
+            <l>My orewak'd eye-lids ope, but fell aſleep:</l>
+            <l>VVherein ſuch heavenly Viſions did bewrap me,</l>
+            <l>As I deſir'd ſuch ſleep might ſtill benap me.</l>
+            <l>There did the Lamb and Lion play together,</l>
+            <l>The Dove and Falcon, Dog and Hare, yet neither,</l>
+            <l>The Lion, Lamb, Dove, Falcon, Dog, or Hare</l>
+            <l>Shew'd any enmity, or malice there,</l>
+            <l>But were as Loving one unto another,</l>
+            <l>As any Siſter to her deareſt Brother.</l>
+            <l>VVith many ſlumbers of ſuch ſweet delight,</l>
+            <l>I paſt the quantity of one whole night,</l>
+            <l>Yet is no night, nor darkneſs in that place,</l>
+            <l>For it was light as Sun-ſhine, all the ſpace.</l>
+            <l>But when my Angel ſaw it time to wake me,</l>
+            <l>He took me by the elbow, and did ſhake me,</l>
+            <l>Saying, 'tis time to rouze, for now (ſaid he)</l>
+            <l>The time approaches, wherein thou ſhalt ſee,</l>
+            <l>The houſes ſet, and all the <hi>Devils</hi> at hand,</l>
+            <l>To urge their bills againſt thy <hi>Native Land:</hi>
+            </l>
+            <pb n="22" facs="tcp:33835:18"/>
+            <l>VVhere thou ſhalt be admitted t' ſpeak thy mind</l>
+            <l>VVhen juſt occaſion thou ſhalt ſee or find.</l>
+            <l>Alas (ſaid I) I am but Earthly mould</l>
+            <l>And dare not think, much leſſe to ſpeak, be bold.</l>
+            <l>The <hi>Devils</hi> are fearfull, yet for them I care not,</l>
+            <l>But before <hi>Heaven</hi> and glorious wights, I dare not.</l>
+            <l>Then he rebuk'd me, ſaying, Thou canſt tell</l>
+            <l>That I preſerv'd thee from the powers of <hi>Hell,</hi>
+            </l>
+            <l>And that at my command thou waſt let in</l>
+            <l>Into this place, where none (like thee in Sin)</l>
+            <l>Did ever enter, therefore never doubt</l>
+            <l>To anſwer, for my ſelf will help thee out.</l>
+            <l>VVith that recomforted, I promiſt I<g ref="char:punc">▪</g>
+            </l>
+            <l>VVould (by him prompt) make anſwer, and reply</l>
+            <l>For my poor Countrey; ſo thou muſt (ſaid he)</l>
+            <l>For 't is determin'd that it ſo ſhall be.</l>
+            <l>I am content (ſaid I) then did we hear,</l>
+            <l>Such Mvſick, as might raviſh mortal ear,</l>
+            <l>Then Thunder, Lightning, and ſuch ſtreaks of fire</l>
+            <l>VVere hurl'd abroad, as made me to admire</l>
+            <l>VVhat was the cauſe; well now the <hi>Lamb</hi> (ſaid he)<note place="margin">The Lamb takes his place in Parlia<g ref="char:EOLhyphen"/>ment.</note>
+            </l>
+            <l>Doth take his place, and ſit unſeen: yet ſee</l>
+            <l>All paſſages, what here is ſaid or done</l>
+            <l>More perfectly than e're thou ſaw'ſt the Sun.</l>
+            <l>Then Thunder ceaſt, and Muſick plaid again,</l>
+            <l>VVhen I beheld a brave and goodly train</l>
+            <l>Of glorified Saints, appear in view,</l>
+            <l>(I ne'r did ſee mens faces of ſuch hew)</l>
+            <l>VVho filled all the ſeats of Ivory white,</l>
+            <l>In ſuch grave order, that bred ſweet delight,</l>
+            <l>I never ſaw ſo brave a ſight before,</l>
+            <l>Nor mortal eye was e'r delighted more.</l>
+            <l>VVe'l, they being ſet, the Muſick then did ceaſe,</l>
+            <l>And for a ſpace, there was a ſilent peace:</l>
+            <l>Until a Trumpets ſound was heard from high,</l>
+            <l>VVhich done, a Royal voyce did by and by</l>
+            <l>Pronounce theſe words: <hi>My Faithfull ſervants,</hi> here</l>
+            <l>The damned Fiends of Hell will ſtrait appear</l>
+            <pb n="23" facs="tcp:33835:18"/>
+            <l>To cry for <hi>Juſtice</hi> 'gainſt that <hi>ſinfull Land,</hi>
+               <note place="margin">England.</note>
+            </l>
+            <l>Which I have loved as my own right hand;</l>
+            <l>And cannot hate it, if they would be driven</l>
+            <l>To leave their vices, and look up to Heaven:</l>
+            <l>Which is as much offended with their crimes,</l>
+            <l>As with <hi>Jeruſalem</hi> in former times.</l>
+            <l>For as their Barns, and Coffers fill with ſtore,</l>
+            <l>So do their ſins abound, and gather more.</l>
+            <l>So that the <hi>Dev'ls</hi> will find ſufficient cauſe</l>
+            <l>Of puniſhment, for breach of all our Laws.</l>
+            <l>You ſhall their bills, and all ſuch anſwers take,</l>
+            <l>As <hi>any perſon</hi> to the ſame ſhall make,</l>
+            <l>Which you in <hi>Parliament</hi> ſhall read and ſee,</l>
+            <l>But you the cenſure ſhall referr to me:</l>
+            <l>So that no Statute ſhall be made, or done,</l>
+            <l>Before I grant for it Commiſſion.</l>
+            <l>This ſaid, we preſently did hear a Din,<note place="margin">The <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> Iſland is indited.</note>
+            </l>
+            <l>Crying, on, on apace, in in, in in;</l>
+            <l>Then came grim <hi>Pluto</hi> ruſhing in, with whom,</l>
+            <l>Came hand in hand the powerfull <hi>Pope of Rome,</hi>
+            </l>
+            <l>Accompanied with ſuch a helliſh Rable,</l>
+            <l>As to account <hi>Arithmetick</hi>'s not able:</l>
+            <l>Who being ſeated, <hi>Judas</hi> up did ſtand,</l>
+            <l>Crying for <hi>Juſtice</hi> on the <hi>Britiſh Land;</hi>
+            </l>
+            <l>If <hi>God</hi> be juſt (ſaid he) we <hi>Juſtice</hi> crave,</l>
+            <l>That they with us might equal <hi>Juſtice</hi> have.</l>
+            <l>I have brought Witneſſes to prove their ſin,</l>
+            <l>Deſiring they may be admitted in.</l>
+            <l>Some of their Witneſſes I here will name,<note place="margin">Enter the Witneſſes.</note>
+            </l>
+            <l>Who with their bills, they brought to prove the ſame.</l>
+            <stage>They brought to prove Pride.</stage>
+            <lg>
+               <l>
+                  <hi>FAbius,</hi> who in his life ſwelled with pride,</l>
+               <l>Swallow'd a hair in Milk, whereof he di'd.</l>
+               <l>
+                  <hi>Poppeia, Neroe</hi>'s Concubine of old,</l>
+               <l>Who ſhod her Horſes feet with burniſht Gold.</l>
+               <l>The Emperour <hi>Diocleſian</hi> likewiſe came,</l>
+               <l>Who (<hi>brother to the Sun</hi>) himſelf did name.</l>
+            </lg>
+            <pb n="24" facs="tcp:33835:19"/>
+            <stage>To prove Covetouſneſſe.</stage>
+            <lg>
+               <l>THey brought <hi>Hermocrates,</hi> who at his death</l>
+               <l>Did all his goods unto himſelf bequeath.</l>
+               <l>
+                  <hi>Craeſus</hi> and eke <hi>Caligula</hi> were there,</l>
+               <l>Whoſe covetous Actions did ſurpaſs compare.</l>
+               <l>
+                  <hi>Demonica,</hi> who <hi>Epheſus</hi> for gain</l>
+               <l>Sold, and with weight of that ſame Gold was ſlain.</l>
+            </lg>
+            <stage>To prove Anger.</stage>
+            <lg>
+               <l>GReat <hi>Alexander,</hi> who in 's angry mood</l>
+               <l>Kill'd <hi>Clitus</hi> his old Counſellor, and good.</l>
+               <l>And <hi>Dionyſius,</hi> who orecom'd with rage,</l>
+               <l>Stab'd to the heart his moſt indulgent Page.</l>
+               <l>
+                  <hi>Periander</hi> who with furious anger led</l>
+               <l>His moſt dear Wife unkindly murdered.</l>
+            </lg>
+            <stage>To prove Drunkenneſs.</stage>
+            <lg>
+               <l>THe Tyrant <hi>Dionyſius,</hi> whoſe delight</l>
+               <l>In too much drinking, caus'd him loſe his ſight:</l>
+               <l>
+                  <hi>Aruntius</hi> who in beaſtly drunken fit</l>
+               <l>With his own Daughter inceſt did commit.</l>
+               <l>And <hi>Ptolomy,</hi> who with exceſs oppreſt</l>
+               <l>Slew both his Parents, and di'd like a beaſt.</l>
+            </lg>
+            <stage>To prove Diſdain.</stage>
+            <lg>
+               <l>GReat <hi>Anthony,</hi> who cauſed <hi>Tullies</hi> head</l>
+               <l>Be ſet to ſcorn, when <hi>Cicero</hi> was dead.</l>
+               <l>
+                  <hi>Xenophon, Demoſthenes,</hi> and <hi>Plato</hi> wiſe,</l>
+               <l>Who each to other, did ſtrange ſcoffs deviſe.</l>
+               <l>And <hi>Geta,</hi> and <hi>Antonius,</hi> brethren born,</l>
+               <l>Who each kill'd other, through their private ſcorn.</l>
+            </lg>
+            <stage>To prove vain Delight.</stage>
+            <lg>
+               <l>
+                  <hi>SArdanapalus</hi> pleaſures true ſworn gueſt,</l>
+               <l>Who from a man was changed to a beaſt.</l>
+               <l>
+                  <hi>Xerxes</hi> who unto none would give his Treaſure,</l>
+               <l>But t' ſuch as could invent new kinds of pleaſure.</l>
+               <pb n="25" facs="tcp:33835:19"/>
+               <l>
+                  <hi>Demetrius</hi> who to pleaſure was ſo given,</l>
+               <l>That from his Countrey he was forc'd and driven.</l>
+            </lg>
+            <stage>To prove Luſt.</stage>
+            <lg>
+               <l>QUeen <hi>Cleopatra</hi> whom her brother us'd,</l>
+               <l>And both her husband, and her ſelf abus'd.</l>
+               <l>
+                  <hi>Thaleſtris,</hi> who did twenty five dayes ride</l>
+               <l>To ly one night by <hi>Alexanders</hi> ſide.</l>
+               <l>
+                  <hi>Claudius,</hi> who of his ſiſter made no ſpare.</l>
+               <l>
+                  <hi>Semiramis,</hi> who us'd her Son and Heir.</l>
+            </lg>
+            <stage>To prove Blaſphemy.</stage>
+            <lg>
+               <l>
+                  <hi>PHer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cides,</hi> who did great <hi>God</hi> deſpiſe,</l>
+               <l>Then eat with Lice, moſt miſerably dies.</l>
+               <l>
+                  <hi>Lucian</hi> the Atheiſt, likewiſe <hi>God</hi> deni'd,</l>
+               <l>Who torn by Dogs in pieces, juſtly di'd.</l>
+               <l>
+                  <hi>Juſtinian,</hi> who did ſleightly <hi>God</hi> regard,</l>
+               <l>Became a fool, and di'd with that reward.</l>
+            </lg>
+            <stage>To prove Idolatry.</stage>
+            <lg>
+               <l>THey brought ſo many for to prove this ſame,</l>
+               <l>That I admir'd, and therefore ceaſe to name.</l>
+            </lg>
+            <lg>
+               <l>All theſe (ſaid <hi>Judas</hi>) ready are to prove</l>
+               <l>The <hi>Engliſh Nation</hi> do imbrace and love</l>
+               <l>All theſe forenamed ſins, and Millions more,</l>
+               <l>As well as we, who damned are therefore.</l>
+            </lg>
+            <lg>
+               <l>The old World of <hi>Gods Juſtice</hi> yet can tell,</l>
+               <l>
+                  <hi>Ninivie</hi> and <hi>Babylon</hi> can witneſs well;</l>
+               <l>Thus <hi>Sodom</hi> and <hi>Gomorrha,</hi> tokens bear</l>
+               <l>That by his <hi>Juſtice</hi> they conſumed were.</l>
+               <l>Nay, his beloved people can declare</l>
+               <l>How that <hi>Jeruſalem</hi> he did not ſpare.</l>
+               <l>And <hi>Judahs Lion</hi> yet can teſtifie</l>
+               <l>
+                  <hi>Gods Juſtice</hi> ſpar'd not him, but he did die.</l>
+            </lg>
+            <lg>
+               <l>And is it juſt that this ſo ſinfull Land</l>
+               <l>Should find more favour<g ref="char:punc">▪</g> flouriſh ſtill, and ſtand?</l>
+               <l>If that his <hi>Juſtice</hi> he hath quite forgot,</l>
+               <l>Then let him favour us, we feel it not.</l>
+               <pb n="26" facs="tcp:33835:20"/>
+               <l>Or if his <hi>Mercie</hi> hath o'r-drown'd it quite,</l>
+               <l>Then let him turn our Tortures to delight:</l>
+               <l>Or elſe impartial alwayes let him prove,</l>
+               <l>And not for ſin, ſome puniſh, and ſome love.</l>
+               <l>I wiſh ſome of that Land were in this place,</l>
+               <l>That we might plead our cauſes face to face.</l>
+            </lg>
+            <lg>
+               <l>Then ſpake <hi>my Guide,</hi> I here have brought a man,<note place="margin">The Poets plea for his Native Countrey.</note>
+               </l>
+               <l>To anſwer for his Countrey what he can.</l>
+               <l>With that proſtrated on the ground I fell;</l>
+               <l>(Said I) Theſe vvitneſſes are all of Hell.</l>
+               <l>Therefore according to our <hi>Engliſh Laws</hi>
+               </l>
+               <l>I might except againſt them and their cauſe.</l>
+               <l>But great Celeſtial Saints, I dare not move it,</l>
+               <l>For they have nothing ſaid, but they may prove it.</l>
+               <l>There is no ſin, theſe <hi>Helliſh Fiends</hi> do name,</l>
+               <l>But in our Land abundantly the ſame</l>
+               <l>Doth over-run it: yet God doth not will</l>
+               <l>For any ſin, a Sinner ſtrait to kill.</l>
+               <l>He in his <hi>Mercy,</hi> alwayes ſhakes the Wand,</l>
+               <l>Before in <hi>Juſtice,</hi> he conſume a Land.</l>
+               <l>Thus with the old World, it is underſtood,</l>
+               <l>He ſweetly dealt, before he brought the Flood.</l>
+               <l>With <hi>Babylon, Ninivie, Jeruſalem,</hi>
+               </l>
+               <l>
+                  <hi>Sodom, Gomorrah:</hi> And as ſo with them,</l>
+               <l>Even ſo to us he hath fair warning given,</l>
+               <l>That by that Means we might from ſin be driven;</l>
+               <l>For often our diſtreſſed Sin-ſick Land</l>
+               <l>Is ſcortched by the <hi>Taper</hi> of his hand.</l>
+               <l>And if theſe warnings cauſe us not t' renew<note place="margin">Plague.</note>
+               </l>
+               <l>Our lives, we may fear Judgements will enſue.</l>
+            </lg>
+            <lg>
+               <l>But as a Woman which at Barr doth ſtand,<note place="margin">Simile.</note>
+               </l>
+               <l>And is commanded to hold up her hand,</l>
+               <l>Then being asked what ſhe can reply</l>
+               <l>To ſtay her ſentence, that ſhe ſhould not die,</l>
+               <l>She falling down, doth openly confeſs,</l>
+               <l>That as the Jury found her, ſo no leſs</l>
+               <l>She hath deſerved death, and Guilty ſtands</l>
+               <l>Ready to ſuffer, when the Judge commands:</l>
+               <pb n="27" facs="tcp:33835:20"/>
+               <l>But yet his Lordſhips favour ſhe doth crave,</l>
+               <l>He would be pleaſed for to let her have</l>
+               <l>The benefit of her increaſing Womb,</l>
+               <l>Before the execution of her Doom.</l>
+               <l>It is not fit, the <hi>Judge</hi> doth then reply,</l>
+               <l>For <hi>Mothers</hi> fault, the guiltleſs <hi>Child</hi> ſhould die,</l>
+               <l>Becauſe hereafter (if God ſend it health)</l>
+               <l>It may do ſervice to the Commonwealth;</l>
+               <l>And therefore grants the Woman a Reprieve,</l>
+               <l>That till ſhe be delivered, ſhe may live.</l>
+            </lg>
+            <lg>
+               <l>Even ſo, I here in my poor Nations name</l>
+               <l>Plead guilty, and confeſs that for the ſame</l>
+               <l>It ſtands condemn'd to th' fire, and know not why</l>
+               <l>It ſhould not execution have, and die;</l>
+               <l>But that within it is ſome unknown birth</l>
+               <l>Of holy fruit, as yet not bloſſom'd forth,</l>
+               <l>Which may hereafter (if <hi>God</hi> bleſs 't with health)</l>
+               <l>Prove to <hi>Gods glory,</hi> and to th' <hi>Commonwealth</hi>
+               </l>
+               <l>A ſpecial Member; therefore we deſire,</l>
+               <l>Till it be born, to ſpare us from the fire:</l>
+               <l>Which being done, let execution come,</l>
+               <l>And all the World receive the fiery doom.</l>
+               <l>Untill which time, we truſt the Lord will prove</l>
+               <l>(As he hath promiſed) the <hi>God of Love,</hi>
+               </l>
+               <l>And keep his <hi>Juſtice</hi> in his powerfull hand,</l>
+               <l>But pour his <hi>Mercy,</hi> on us, and our Land,</l>
+               <l>That we thereby may once again be driven</l>
+               <l>To leave our ſins, and ſet our minds on Heaven.</l>
+            </lg>
+            <lg>
+               <l>The Devils <hi>Juſtice</hi> cry, I <hi>Mercy</hi> crave,</l>
+               <l>And either party hope their ſute to have;</l>
+               <l>But ſure, I ſhall obtain, they ſhall miſtake,</l>
+               <l>For I beg <hi>Mercy,</hi> for <hi>Chriſt Jeſus ſake.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Whereat the <hi>Devils</hi> trembled; but that face</l>
+               <l>Which never yet had any ſpark of grace,</l>
+               <l>Hells <hi>Speaker Judas,</hi> he began to cry</l>
+               <l>
+                  <hi>God</hi> wanteth <hi>Juſtice,</hi> if they do not die,</l>
+               <l>And <hi>bawling Lawyer</hi> like, made ſuch a do,</l>
+               <l>I think he would have bawled untill now,</l>
+               <pb n="28" facs="tcp:33835:21"/>
+               <l>But that St. <hi>Michael</hi> caus'd him ceaſe his prate,</l>
+               <l>Teaching him Manners with a broken pate.</l>
+            </lg>
+            <lg>
+               <l>Then ſtood up good St. <hi>Paul,</hi> who thus Diſputes;<note place="margin">St. <hi>Pauls</hi> Plea.</note>
+               </l>
+               <l>Of all <hi>Jehovahs</hi> mighty Attributes,</l>
+               <l>He loveth <hi>Mercie,</hi> though he <hi>Juſtice</hi> ſhow,</l>
+               <l>Unto ſome ſinfull peoples overthrow,</l>
+               <l>Yet is that unto ſome forſaken place</l>
+               <l>Which is paſt hope, and barren of all grace.</l>
+               <l>What though this Land in many ſins abound?</l>
+               <l>Yet in this place they near the <hi>Goſpels</hi> ſound,</l>
+               <l>Which of it ſelf, ſufficient is to gain,</l>
+               <l>A ſinfull Soul, although't be dy'd in grain.</l>
+               <l>And therefore (<hi>bleſſed Saints</hi>) if you conſent</l>
+               <l>For this time we'l adjourn this <hi>Parliament,</hi>
+               </l>
+               <l>And ſend theſe bawling <hi>faries</hi> into <hi>Hell,</hi>
+               </l>
+               <l>Me thinks this <hi>English-man</hi> hath pleaded well.</l>
+            </lg>
+            <lg>
+               <l>For ſince it was <hi>jehovahs</hi> ſacred mind</l>
+               <l>To ſend them plagues, we hope we ſhall them find</l>
+               <l>Hereafter penitent, and grace obtain,</l>
+               <l>Or otherwiſe, they but prolong their pain.</l>
+               <l>With that the Saints did yield their full conſent<note place="margin">The Par<g ref="char:EOLhyphen"/>liament is adjourned.</note>
+               </l>
+               <l>For that time to adjourn the <hi>Parliament;</hi>
+               </l>
+               <l>But promiſt <hi>Pluto</hi> that if <hi>Mercy</hi> fail</l>
+               <l>To work redreſs, then <hi>Juſtice</hi> ſhall prevail.</l>
+            </lg>
+            <lg>
+               <l>With that the <hi>Devils</hi> were compell'd again</l>
+               <l>Unto their place of everlaſting pain:</l>
+               <l>And in a Moment I could not eſpy</l>
+               <l>A Creature left beſides my Guide and I;</l>
+               <l>Which made me ſtand as one full ſore amaz'd,</l>
+               <l>Or like a man beſide his wits I gaz'd.</l>
+            </lg>
+            <lg>
+               <l>My <hi>Angel</hi> (ſmiling ſaid) poor mortal wights,</l>
+               <l>How quickly are you daunted in your sprights?</l>
+               <l>Take courage man, and bear a manly heart,</l>
+               <l>For I will ſet thee ſafe before we part,</l>
+               <l>Where firſt I found thee, therefore let us haſte,</l>
+               <l>For time is precious, which we muſt not waſte.</l>
+            </lg>
+            <lg>
+               <l>Then as we came without the Gates of Heaven,</l>
+               <l>There laid the heap of ſtones that brain'd St. <hi>Steven,</hi>
+               </l>
+               <pb n="29" facs="tcp:33835:21"/>
+               <l>With many more, But yet I marked one</l>
+               <l>Had writ upon't <hi>The Philoſophers ſtone,</hi>
+               </l>
+               <l>Which taking in my hand, I did behold,</l>
+               <l>(Said I) is this the ſtone turns all to Gold?</l>
+               <l>It is, (ſaid he) How comes it then (ſaid I)</l>
+               <l>That mortal men do ſeek to come thereby</l>
+               <l>By <hi>Chimiſtry,</hi> whereas it onely lies</l>
+               <l>Within this place, and not below the skies?</l>
+               <l>Becauſe they're fools (ſaid he) for none may come</l>
+               <l>To purchaſe it, although there have been ſome</l>
+               <l>In former times, which did obtain the ſame,</l>
+               <l>
+                  <hi>Philoſophers,</hi> of whom it bears the name;</l>
+               <l>But ſuch they were, as not the like is found</l>
+               <l>Theſe ſinfull dayes, to live upon the ground.</l>
+            </lg>
+            <lg>
+               <l>For ther's no mortal can obtain this Stone,</l>
+               <l>Unleſs he be of Converſation one,<note place="margin">How they muſt be qualified that can obtain the Philoſo<g ref="char:EOLhyphen"/>phers ſtone.</note>
+               </l>
+               <l>As will not put the ſame to any uſe,</l>
+               <l>Which may redound to Commonwealths abuſe:</l>
+               <l>Nor to his profit muſt convert the ſame,</l>
+               <l>Either for lucre, pleaſure, eaſe, or Game.</l>
+               <l>Such as to no vain earthly thing is given,</l>
+               <l>Ort' love the World or pleaſure can be driven.</l>
+               <l>As will by no means bribes, or gifts receive,</l>
+               <l>Although thereby the whole World he might have:</l>
+               <l>Nor will to any uſe imploy this Stone,</l>
+               <l>But for the Church, and Commonwealth alone.</l>
+               <l>If thou do'ſt find thy ſelf ſuch one to be,</l>
+               <l>Take thou the Stone, it doth belong to thee.</l>
+            </lg>
+            <lg>
+               <l>I muſt confeſs (ſaid I) I much deſire</l>
+               <l>To have the ſame, and did intend t' require</l>
+               <l>It at thy hands, but henceforth will not crave it,</l>
+               <l>Becauſe I far unworthy am to have it:</l>
+               <l>So difficult a thing it ſeems to me,</l>
+               <l>That ſuch a man upon the Earth ſhould be.</l>
+               <l>Though I could all the reſt; yet could I ſcant</l>
+               <l>Forbear to help my Wife, or Child in want.</l>
+               <l>Nay, that one may with ſafety do (ſaid he)</l>
+               <l>Or ought belongs to his neceſſity:</l>
+               <pb n="30" facs="tcp:33835:22"/>
+               <l>But any other way muſt not exceed,</l>
+               <l>Unleſs his Countrey, or Religion bleed</l>
+               <l>For want of help, and in ſuch caſe he may</l>
+               <l>Unto his bounty give acceſs, and way.</l>
+            </lg>
+            <lg>
+               <l>And becauſe I will thee ſome favour ſhow,</l>
+               <l>A little taſte thereof I will beſtow</l>
+               <l>Upon thee ſtrait, which I will cauſe thee drink,</l>
+               <l>Whereby thou ſhalt eſteem thy ſelf, and think,</l>
+               <l>Thou art more happy, by one Cup of Wine,</l>
+               <l>Than if the beſt Town on the Earth were thine.</l>
+               <l>This ſaid, he took the Stone into his hand,</l>
+               <l>And bruis'd a piece thereof as ſmall as ſand:</l>
+               <l>Then ſtrait-way did appear a Cup of Wine</l>
+               <l>To come in preſence, by his power Divine,</l>
+               <l>He caſt the bruiſed Stone into the Cup,</l>
+               <l>And at one draught, he made me drink it up.</l>
+               <l>What have I gain'd by this? I know no more</l>
+               <l>(Said I) by drinking this, than heretofore.</l>
+            </lg>
+            <lg>
+               <l>Then mark (ſaid he) when a <hi>Religious King</hi>
+               </l>
+               <l>Shall want ſupply of Gold for any thing</l>
+               <l>VVhich tends to Countreys, or Religions gain,</l>
+               <l>And knows not how ſuch Treaſure to obtain,</l>
+               <l>Unleſs he drain it from his Subjects backs,</l>
+               <l>VVho are o'r-burthened with Rents and Racks,</l>
+               <l>Do but thy mind to ſuch a <hi>Prince</hi> unſold,</l>
+               <l>And every word thou ſpeak'ſt ſhall turn to Gold.</l>
+               <l>So ſhalt thou cure thy <hi>Royal King</hi> of care,</l>
+               <l>And from poor <hi>Commons</hi> purchaſe many a prayer,</l>
+               <l>VVhen thou ſhalt multiply their <hi>Princes</hi> ſtore,</l>
+               <l>Yet they, nor theirs, be burthened therefore.</l>
+               <l>In this caſe ſhall thy words onely prevail,</l>
+               <l>And turn to Gold: but in all other fail.</l>
+            </lg>
+            <lg>
+               <l>I never ſhall make trial of this thing,</l>
+               <l>Nor come (ſaid I) in preſence of a King;</l>
+               <l>I lead my life within an obſcure place,</l>
+               <l>And in the World have no great name, or grace,</l>
+               <l>So once (ſaid he) was <hi>Joſeph</hi> in a pit,</l>
+               <l>Yet afterwards in higher place did ſit</l>
+               <pb n="31" facs="tcp:33835:22"/>
+               <l>In <hi>Pharaoh</hi>'s Court, the greateſt in his Land,</l>
+               <l>And faithful prov'd, in all he took in hand.</l>
+               <l>
+                  <hi>God</hi> alwaies works by Men of low degree,</l>
+               <l>And ſimple means, that Men may know 't is he</l>
+               <l>That acteth all, can raiſe the lowly one,</l>
+               <l>As <hi>David,</hi> from a Sheep-hook to a Throne.</l>
+               <l>But now remember where I firſt thee found,</l>
+               <l>And here I leave thee on the ſelf-ſame ground;</l>
+               <l>Ponder theſe things, and when thou findſt them true,</l>
+               <l>Remember <hi>God,</hi> and me, And ſo <hi>Adieu.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVith that I rouz'd my ſelf, but could eſpy</l>
+               <l>No body in the place, but <hi>God and I,</hi>
+               </l>
+               <l>As goes the <hi>Proverb:</hi> only there I found</l>
+               <l>A <hi>Scrowl</hi> of written paper on the ground,</l>
+               <l>VVhich taking in my hand, I did begin</l>
+               <l>To read the ſame, and found theſe words therein</l>
+            </lg>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prophecy">
+                        <head>The Scrowl.</head>
+                        <lg>
+                           <l>That thou muſt know thy foreſaid Viſion's true,</l>
+                           <l>Theſe ſhall be ſigns, and ſhortly ſhall enſue;</l>
+                           <l>For thou ſhalt free thy native Common-wealth</l>
+                           <l>From begging Rogues, and Theeves that live by ſtealth,</l>
+                           <l>In driving Droans and ſluggards from their hives,</l>
+                           <l>And placing Bees of more laborious lives.</l>
+                           <l>And by Heavens help, within few years to come</l>
+                           <l>Shalt ſee thy King, <hi>Monarch of Chriſtendom.</hi>
+                           </l>
+                           <l>VVith other things, of excellence moſt rare,</l>
+                           <l>VVhich I to thee hereafter will declare.</l>
+                        </lg>
+                        <closer>
+                           <signed>M. A.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>VVhich having read, I bluſht, and lookt about me,</l>
+               <l>Fearing ſome man had writ the ſame to flout me;</l>
+               <l>But ſpying none, I mus'd how this could be,</l>
+               <l>That ſuch emploiments were reſerv'd for me:</l>
+               <l>At which amaz'd, I know not by what chance</l>
+               <l>My Spirits failing, I fell in a trance,</l>
+               <l>VVherein (I thought) unto me did appear,</l>
+               <l>A lovely VVight, with grave and ſober cheer.</l>
+            </lg>
+            <sp>
+               <pb n="32" facs="tcp:33835:23"/>
+               <stage>St. <hi>Iohn</hi>'s ſpeech.</stage>
+               <lg>
+                  <l>
+                     <hi>Mortal</hi> (ſaid he) I charge thee to reſort</l>
+                  <l>VVith all ſpeed poſſible unto the <hi>Court,</hi>
+                  </l>
+                  <l>And there declare unto <hi>Great Britains King,</hi>
+                  </l>
+                  <l>That I have ſent thee to declare this thing.</l>
+                  <l>If he demand my name, ſay it is <hi>John</hi>
+                  </l>
+                  <l>Who wrote the <hi>Book of Revelation.</hi>
+                  </l>
+                  <l>Then tell him, in the <hi>Numbers</hi> he may read<note place="margin">Numb. 24 v. 17.</note>
+                  </l>
+                  <l>How that a Wizard (<hi>Balaam</hi>) propheſied</l>
+                  <l>Of <hi>Jeſus Chriſt:</hi> And likewiſe it appears,</l>
+                  <l>(How that one <hi>Merlin,</hi> who liv'd many years</l>
+                  <l>Ago in <hi>Britain</hi>) by ſome old Records,</l>
+                  <l>Did propheſy in theſe, or ſuch like words.</l>
+               </lg>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prophecy">
+                           <head>A Prophecy of <hi>Merlins.</hi>
+                           </head>
+                           <l>After the many irruptions in this Land</l>
+                           <l>By forein Kings: yet let men underſtand,</l>
+                           <l>The time ſhall come, that in deſpight of them,</l>
+                           <l>Our Kings ſhall wear <hi>Brute</hi>'s antient Diadem.</l>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <lg>
+                  <l>If this be true, as it appears no leſs,</l>
+                  <l>How could a Witch, or Devil, better gueſs?</l>
+               </lg>
+               <lg>
+                  <l>It is well known, how that in time of old,</l>
+                  <l>
+                     <hi>Brute</hi> (as a Monarch) did all <hi>Britain</hi> hold.</l>
+                  <l>And that his ſeed and iſſue rul'd the ſame,</l>
+                  <l>Until the <hi>Goſpel</hi> into <hi>Britain</hi> came;</l>
+                  <l>And was imbraced wholly through the Land,</l>
+                  <l>So that <hi>Brute</hi>'s <hi>Monarchy</hi> did thereby ſtand,</l>
+                  <l>Not only having all one King alone,</l>
+                  <l>But all conſenting in Religion.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>Brute,</hi> unto his children did divide</l>
+                  <l>His <hi>Monarchy;</hi> which did not long abide</l>
+                  <l>After the <hi>Goſpel</hi> flouriſht: for even then</l>
+                  <l>The <hi>Devil</hi> envying th' happineſs of Men,</l>
+                  <l>Began to ſow his <hi>Tares</hi> amongſt this Corn,</l>
+                  <l>So that <hi>Brute</hi>'s children they begun to ſcorn</l>
+                  <l>Each others happineſs; and ſo brought in</l>
+                  <l>Strangers to Rule: (the puniſhment of Sin)</l>
+                  <l>By which unlucky, diſmal, fatal chance,</l>
+                  <l>Came many Rulers, and much Ignorance.</l>
+                  <pb n="33" facs="tcp:33835:23"/>
+                  <l>So that <hi>ten Kings</hi> at once did Scepters ſway,<note place="margin">Ten Kings at once in <hi>Britain.</hi>
+                     </note>
+                  </l>
+                  <l>And true <hi>Religion</hi> dayly did decay.</l>
+               </lg>
+               <lg>
+                  <l>Which <hi>God</hi> (in Mercy) minding to repair,</l>
+                  <l>Hath molded for old <hi>Brute,</hi> a ſon and heir,</l>
+                  <l>Not only for to rule the Land alone,</l>
+                  <l>But to eſtabliſh true Religion.</l>
+               </lg>
+               <lg>
+                  <l>But ſee, the Devil hath even now begun</l>
+                  <l>To skreen the glory of this riſing Sun;</l>
+                  <l>Doubting that if this <hi>Monarch</hi> ſhould have peace,</l>
+                  <l>So that his Crown, and Subjects ſhould increaſe,</l>
+                  <l>He would eſpy his own: and by and by</l>
+                  <l>Advance his Horns againſt proud <hi>Italy,</hi>
+                     <note place="margin">Revel. 17. v. 16.</note> 
+                  </l>
+                  <l>Of which by <hi>Brute</hi> he is undoubted heir,<note place="margin">K. Heir <hi>to</hi> Italy.</note>
+                  </l>
+                  <l>And plant Religion, and <hi>Chriſt</hi>'s Banners there.</l>
+               </lg>
+               <lg>
+                  <l>Which to prevent, the <hi>Dev'll</hi> has Treaſon ſown,</l>
+                  <l>Such, in that Kingdom yet was never known.</l>
+                  <l>The laſt he plotted (they have not forgot)</l>
+                  <l>Was that moſt horrible <hi>Black-powder Plot:</hi>
+                  </l>
+                  <l>But that, in competition cannot ſtand,</l>
+                  <l>With this <hi>White-powder Plot</hi> that 's now in hand.</l>
+                  <l>One Plot, I rather fear I might ſay plots,</l>
+                  <l>Beſides that ſhow of riſing by the <hi>Scots,</hi>
+                  </l>
+                  <l>Which I commend not, but condemn, for Hell</l>
+                  <l>Is the Ring-leader to all that rebel.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>God</hi> laid them open in that <hi>Treaſon Black;</hi>
+                  </l>
+                  <l>But <hi>White</hi> ſtrikes dead, and yet it gives no crack.<note place="margin">A White Powder plot more dangerous than the Black.</note>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Peoples love (which is a Prince's heart)</l>
+                  <l>The <hi>Devil</hi> ſeeks to hatred to convert.<note place="margin">The Devils policy.</note>
+                  </l>
+                  <l>The hand is lifted up to ſtrike us down,</l>
+                  <l>He comes full neer my head, who hits my crown.</l>
+                  <l>The <hi>Romaniſts</hi> him Governour admit,</l>
+                  <l>But as for Head they'l not acknowledg it.<note place="margin">Papiſts deny the King's ſu<g ref="char:EOLhyphen"/>premacy.</note>
+                  </l>
+                  <l>And certainly Men will repute him dead,</l>
+                  <l>Who wants a Heart, or is without a Head.</l>
+                  <l>But they that take the one half of his right,</l>
+                  <l>Would alſo have the reſt if that they might;</l>
+                  <l>And when they ſee their time, will have a caſt</l>
+                  <l>To hazard all, or elſe to throw their laſt.</l>
+               </lg>
+               <lg>
+                  <pb n="34" facs="tcp:33835:24"/>
+                  <l>Thus by degrees, this Plot he doth contrive,</l>
+                  <l>Becauſe things raſhly acted ſeldom thrive.</l>
+                  <l>But works digeſted with a ſolid brain,</l>
+                  <l>Are never impotent, or prove in vain.</l>
+                  <l>The <hi>Plot</hi> is Sable, though the colour 's <hi>White,</hi>
+                  </l>
+                  <l>
+                     <hi>Satan</hi> 's transformed to a <hi>Saint of light.</hi>
+                  </l>
+                  <l>And if prevention do it not withſtand</l>
+                  <l>The platform 's laid, which will conſume the Land.</l>
+               </lg>
+               <lg>
+                  <l>Which <hi>God</hi> fore-ſeeing, (who doth all things ſee)</l>
+                  <l>Hath ſent me down, to tell the ſame to thee,</l>
+                  <l>Knowing thou art thy King and Countries Lover,</l>
+                  <l>And therefore I here charge thee to diſcover</l>
+                  <l>The things intended; that advice may blot,</l>
+                  <l>This later, as the former <hi>Powder-plot.</hi>
+                  </l>
+                  <l>So that by ſtripping naked of the thing,</l>
+                  <l>Thou ſhalt do ſervice to thy Royal King;</l>
+                  <l>Who, if he look therein, may well perceive,</l>
+                  <l>How thoſe <hi>Arch-Traitors,</hi> who did prowdly heave</l>
+                  <l>His Fathers iſſue to have overthrown</l>
+                  <l>Were mild, compar'd with this againſt his own.</l>
+                  <l>For no ſuch danger is in open Foes,</l>
+                  <l>As ſeeming Friends, who Plot our overthrows.</l>
+                  <l>But <hi>God</hi> who alwaies ſtands his Servants friend,</l>
+                  <l>Returns wrath on the Plotters in the end:</l>
+                  <l>Who having plac'd his Love upon this <hi>Crown,</hi>
+                  </l>
+                  <l>VVill never ſuffer <hi>Treaſon</hi> pull it down,</l>
+                  <l>Until all be perform'd as he hath willed,<note place="margin">Revel. 17. 16, 17.</note>
+                  </l>
+                  <l>And what I propheſied be fulfilled.</l>
+                  <l>I <hi>John</hi> have ſpoken it, (ſay) it was I,</l>
+                  <l>VVho never ſpake, or writ, ought prov'd a ly.</l>
+               </lg>
+               <stage>St. <hi>Iohn</hi>'s Speech ends.</stage>
+            </sp>
+            <lg>
+               <l>VVith that unto my ſelf I came again,</l>
+               <l>Much wondring, at the wandring of my brain,</l>
+               <l>Caſting about me many a meager look,</l>
+               <l>At laſt a <hi>Bible</hi> in my hand I took,</l>
+               <l>And found each word he ſaid, was very true</l>
+               <l>In both the <hi>Teſtaments,</hi> of old and new:</l>
+               <l>For in the <hi>Numbers</hi> I did find it there,<note place="margin">Ch. 24 17.</note>
+               </l>
+               <l>Of <hi>Chriſt</hi> the VVizard <hi>Balaam</hi> did declare.</l>
+            </lg>
+            <lg>
+               <pb n="35" facs="tcp:33835:24"/>
+               <l>Which thus unto my ſelf I did apply,</l>
+               <l>If <hi>Balaam</hi> of the <hi>King of Kings;</hi> then why</l>
+               <l>May not our <hi>Merlin,</hi> (as in other things)</l>
+               <l>Propheſie truly of our <hi>Britiſh Kings?</hi>
+               </l>
+               <l>And ſince the preterperfect did not fail,</l>
+               <l>The future without queſtion muſt prevail,</l>
+               <l>When it is ſeconded by ſuch a one</l>
+               <l>As the true Prophet, (<hi>Chriſt</hi>'s beloved) <hi>John.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And ſeeing we fore-ſee the Devil's Treaſon,</l>
+               <l>We ſhould prove Fools, and quite devoid of reaſon,</l>
+               <l>If we ſhould marry, eat, and drink, and ſtand,</l>
+               <l>Until this Deluge overflow our Land.</l>
+               <l>Or ſtand as Statues, made of helpleſs Lead,</l>
+               <l>Until our fainting body loſe her Head;</l>
+               <l>Which being loſt, by Treaſons poiſon'd Dart,</l>
+               <l>What hope of Safety is left for the Heart?</l>
+            </lg>
+            <lg>
+               <l>Which to prevent, <hi>Great Heroes</hi> lend a hand,<note place="margin">The Poet's zeal for his King and Country.</note>
+               </l>
+               <l>
+                  <hi>Grave Senators</hi> of this our fruitful Land.</l>
+               <l>Nay look (Great <hi>Charls</hi>) and tender thine own blood,</l>
+               <l>Whereon depends our ſafety, and our good.</l>
+               <l>As Subjects without King are nothing, then,</l>
+               <l>A <hi>King,</hi> is King of nothing, wanting Men.</l>
+               <l>And as good loſe a man as loſe his heart</l>
+               <l>Which guideth all, and is the nobleſt part.</l>
+            </lg>
+            <lg>
+               <l>Me think I hear that <hi>Zedekiah</hi> ſwears,<note place="margin">1 Kings 22. 24.</note>
+               </l>
+               <l>He preſently will have me by the ears,</l>
+               <l>As once he hit <hi>Micaiah</hi> on the cheek,</l>
+               <l>VVhen (by good counſel,) he did truly ſeek</l>
+               <l>To ſave his King from fore-ſeen death indeed,</l>
+               <l>VVhich he neglecting, followed with ſpeed.</l>
+               <l>And yet a poor <hi>Micaiah</hi> muſt not fear</l>
+               <l>To ſpeak the truth for a ſound box o' th' ear.</l>
+               <l>Then <hi>Zoilus</hi> he ſteps in, and thus doth ſay,</l>
+               <l>I muſt not ſpeak of <hi>Scripture,</hi> I am <hi>Lay:</hi>
+               </l>
+               <l>And 't is not lawful for a <hi>Layman</hi>'s tongue</l>
+               <l>To ſpeak of <hi>Scripture,</hi> or ought doth belong</l>
+               <l>To State occaſions; <hi>Zoilus,</hi> hold thy prate,</l>
+               <l>Each Subject hath a property i' th' State:</l>
+               <pb n="36" facs="tcp:33835:25"/>
+               <l>And curſed be his tongue in hateful Hell,</l>
+               <l>VVho knows of Treaſon, and yet-will not tell;</l>
+               <l>Or will not counſel give (under controul)</l>
+               <l>For ſafety of his <hi>Princes</hi> life, or ſoul;<note place="margin">Subjects are bound to ſpeak in theſe caſes.</note>
+               </l>
+               <l>Or doth eſteem his own honour, or wealth,</l>
+               <l>Before his <hi>Sovereigns</hi> ſafety and his health.</l>
+               <l>Though <hi>Haman</hi> hold his tongue, and all conceal,</l>
+               <l>Good <hi>Mordecai</hi> will his plots reveal.<note place="margin">Eſther 6. v. 2.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>But yet I hope our <hi>Caeſar</hi> need not fear</l>
+               <l>A <hi>Zedekiah</hi> or a <hi>Haman</hi> here:</l>
+               <l>VVhich if there be, all loyal Subjects then</l>
+               <l>Kneel down, and wiſh them <hi>Haman</hi>'s end.</l>
+            </lg>
+            <closer>Amen.</closer>
+            <epigraph>
+               <q>Si Deus nobiſcum, quis contra nos.</q>
+            </epigraph>
+            <closer>
+               <signed>GEORGE MAY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="dialogue">
+            <pb n="37" facs="tcp:33835:25"/>
+            <head>A Dialogue between the Author and the World.</head>
+            <sp>
+               <speaker>World.</speaker>
+               <l>
+                  <seg rend="decorInit">W</seg>Ho wrote this Book?</l>
+            </sp>
+            <sp>
+               <speaker>Au.</speaker>
+               <l>A friend of mine a Poet.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>Oh then he's poor.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Alas for wo, I know it.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>I care not for ſuch men.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>nor they for thee.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>VVhy, greateſt <hi>Monarchs</hi> are in love with me:</l>
+               <l>For thoſe I love I fill with wealth and ſtore.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Yet (wanting Virtue) theſe but make them poor.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>Nay wealth buyes all things.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>wicked VVorld thou ly'ſt;</l>
+               <l>Thy Prince could not obtain of <hi>Jeſus Chriſt,</hi>
+               </l>
+               <l>The ſmalleſt bending of his humble knee,</l>
+               <l>For all the wealth and glory was in thee.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>I ſpeak of Earthly things, and not of Heaven.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>VVhoſe joy's on Earth, of Heavenly joy's bereaven.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>I ſee thou art grown fooliſhly Divine.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Yea: and therein more wiſe than thou or thine.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>VVhy ſayſt thou ſo? thou ſeeſt the <hi>Lawyers</hi> dare</l>
+               <l>Not ſpeake a word againſt me at the Bar,</l>
+               <l>Nor any one of ne'r ſo high degree;</l>
+               <l>The Pulpits dare not ſpeak; although they ſee;</l>
+               <l>I charge thee then, obey at my command,</l>
+               <l>As thou doſt look for favor at my hand.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Avant <hi>vain World,</hi> I laugh in ſcorn, thy ſolly,</l>
+               <l>Thy frenzy doth proceed from Melancholy,</l>
+               <l>VVhich doth diſtil from thy Earth-heavy brain,</l>
+               <l>Thou art half mad, thy wits are in the wain,</l>
+               <l>They Leaden heels are nail'd to Earth below,</l>
+               <l>And higher things art not inur'd to know.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>VVhat art thou, not of <hi>Adam?</hi> this my womb</l>
+               <l>Firſt gave him birth, and afterwards a Tomb.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Our Earths groſs ſubſtance from thy womb we have,</l>
+               <l>But our beſt part ſhall never taſte the Grave;</l>
+               <l>Th' art like the Apple given to work him evil,</l>
+               <l>A ſeeming Saint, but Factor for the Devil.</l>
+            </sp>
+            <sp>
+               <pb n="38" facs="tcp:33835:26"/>
+               <speaker>W.</speaker>
+               <l>VVhat, was I not created before Man?</l>
+               <l>Declare thoſe Attributes belongs me than.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>God did create thee for the Creatures uſe,</l>
+               <l>And not to proſtitute thee to abuſe;</l>
+               <l>Theſe are thy Attributes: A Sea of Glaſs,<note place="margin">The worlds Attributes.</note>
+               </l>
+               <l>Pageant of fond delights, Vanities Aſs,</l>
+               <l>Labyrinth of Error, Gulf of grief, A Sty</l>
+               <l>Of filthineſs, A Vale of miſery,</l>
+               <l>A ſpectacle of wo, River of tears,</l>
+               <l>A Cage of Scritch-owls, Den of VVolves and Bears,</l>
+               <l>Whirl-wind of paſſions, Cabbin of idleneſs,</l>
+               <l>A neſt of Scorpions, Deaths vaſt Wilderneſs,</l>
+               <l>A painted Comedy, Delightſul madneſs,</l>
+               <l>Wher's falſe delight, but right aſſured ſadneſs,</l>
+               <l>Uncertain pleaſures, Fleeting fickle Wealth,</l>
+               <l>Long heavineſs, Short-joy, Unconſtant health.</l>
+               <l>Theſe are thy <hi>Epithetes;</hi> he's mad would have</l>
+               <l>A Maſter to himſelf, of ſuch a Slave.</l>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <l>I'm glad I know't, Thou ſhalt not have a bed</l>
+               <l>Whereon to ly, nor houſe to hide thy head.</l>
+               <l>Honour and Riches ſhall be none of thine,</l>
+               <l>Nor any thing, that I can ſay is mine.</l>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <l>Thou art deceiv'd, when thou haſt done thy worſt,</l>
+               <l>They ſhall be bleſt, that are by thee accurſt,</l>
+               <l>My <hi>Saviour</hi> ſaid, <hi>The Swallow hath a neſt,</hi>
+               </l>
+               <l>
+                  <hi>But not the Son of Man wherein to reſt.</hi>
+               </l>
+               <l>I care not for thy Riches, or thy honor,</l>
+               <l>He's mad ſo loves the World to dote upon her.</l>
+               <l>Love thou the Lord (my Soul) who ſits above,</l>
+               <l>Thou ſhalt have Honour, Riches, Peace, and Love</l>
+            </sp>
+            <epigraph>
+               <q>
+                  <l>Altiora peto.</l>
+                  <l>Meliora ſpero.</l>
+                  <l>Non est mortale quod opto.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33835:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
